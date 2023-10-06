@@ -1,0 +1,51 @@
+
+16,Donaldson7@college.edu,Donaldson,Philosophy
+40,Roberts24@college.edu,Roberts,Philosophy
+35,Milburn48@college.edu,Milburn,Computer Science
+9,Brunson47@college.edu,Brunson,Chemistry
+49,Varghese17@college.edu,Varghese,Journalism
+17,el-Ashraf14@college.edu,el-Ashraf,Economics
+36,Moline39@college.edu,Moline,Psychology
+21,Fischer28@college.edu,Fischer,Art History
+41,Salazar-Rico29@college.edu,Salazar-Rico,Mathematics
+6,Beck-Alper37@college.edu,Beck-Alper,Economics
+39,Rapp4@college.edu,Rapp,Biology
+37,Quarles46@college.edu,Quarles,Data Science
+28,Lobato33@college.edu,Lobato,Physics
+19,el-Mansour38@college.edu,el-Mansour,Geology
+8,Bortz6@college.edu,Bortz,Mathematics
+38,Rael35@college.edu,Rael,Neuroscience
+23,Griego20@college.edu,Griego,Data Science
+7,BeduAnnan26@college.edu,Bedu Annan,Psychology
+14,CreightonHoward31@college.edu,Creighton Howard,History
+50,VonHolten30@college.edu,Von Holten,History
+43,Solarin32@college.edu,Solarin,Computer Science
+20,el-Miah15@college.edu,el-Miah,Political Science
+47,Suarez40@college.edu,Suarez,Statistics
+29,Lor43@college.edu,Lor,Biology
+31,Martinez22@college.edu,Martinez,Neuroscience
+12,Chen41@college.edu,Chen,Mandarin
+24,HallPricket1@college.edu,Hall Pricket,Economics
+27,Lee2@college.edu,Lee,Neuroscience
+30,Martinez10@college.edu,Martinez,Psychology
+44,Sommer3@college.edu,Sommer,History
+13,Contreras13@college.edu,Contreras,Creative Writing
+46,Strand9@college.edu,Strand,French
+42,Santillan11@college.edu,Santillan,Journalism
+34,Melendez16@college.edu,Melendez,Spanish
+11,Cardoza49@college.edu,Cardoza,Computer Science
+25,Hayes44@college.edu,Hayes,Environmental Science
+4,Ballard45@college.edu,Ballard,Mathematics
+45,Sommer8@college.edu,Sommer,Statistics
+18,el-Hameed34@college.edu,el-Hameed,Neuroscience
+33,Medina19@college.edu,Medina,Geology
+10,Cantor18@college.edu,Cantor,Psychology
+15,Dibello5@college.edu,Dibello,Statistics
+48,Sun25@college.edu,Sun,Mandarin
+2,al-Sesay42@college.edu,al-Sesay,Geology
+5,Barnhill36@college.edu,Barnhill,Astronomy
+32,Mccann23@college.edu,Mccann,Environmental Science
+1,Adams21@college.edu,Adams,Economics
+22,Giles12@college.edu,Giles,Statistics
+3,Baca50@college.edu,Baca,Environmental Science
+26,Lambright27@college.edu,Lambright,Data Science

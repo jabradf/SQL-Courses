@@ -1,0 +1,1001 @@
+
+1,Joshua Davis,senior,Joshua1@college.edu,Chemistry,16,Sociology,16,Donaldson,Philosophy,Donaldson7@college.edu
+2,Ricardo Sansburn,junior,Ricardo2@college.edu,Sociology,16,NULL,NULL,Roberts,Philosophy,Roberts24@college.edu
+3,Waneesa el-Zakaria,freshman,Waneesa3@college.edu,Data Science,16,NULL,NULL,Milburn,Computer Science,Milburn48@college.edu
+4,Selena Mendoza,freshman,Selena4@college.edu,Neuroscience,16,Environmental Science,14,Brunson,Chemistry,Brunson47@college.edu
+5,Matthew Hughes,senior,Matthew5@college.edu,Mandarin,16,Chemistry,16,Varghese,Journalism,Varghese17@college.edu
+6,Kyle Rollins,senior,Kyle6@college.edu,Neuroscience,16,English,14,el-Ashraf,Economics,el-Ashraf14@college.edu
+7,Kaylee Sarafin,freshman,Kaylee7@college.edu,Political Science,13,NULL,NULL,Moline,Psychology,Moline39@college.edu
+8,Conor Barnum,sophomore,Conor8@college.edu,Spanish,14,English,14,Moline,Psychology,Moline39@college.edu
+9,Amru al-Salame,freshman,Amru9@college.edu,Mathematics,16,NULL,NULL,Fischer,Art History,Fischer28@college.edu
+10,Anthony Soto,freshman,Anthony10@college.edu,French,14,Sociology,16,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+11,Rojesh Roe-Miller,sophomore,Rojesh11@college.edu,Mathematics,16,Environmental Science,14,Beck-Alper,Economics,Beck-Alper37@college.edu
+12,Nicolae Stayton,freshman,Nicolae12@college.edu,Chemistry,16,NULL,NULL,Rapp,Biology,Rapp4@college.edu
+13,Ummu Kulthoom el-Raad,senior,UmmuKulthoom13@college.edu,Statistics,13,NULL,NULL,Quarles,Data Science,Quarles46@college.edu
+14,Jared Christian Lovins,freshman,JaredChristian14@college.edu,Neuroscience,16,Economics,16,Lobato,Physics,Lobato33@college.edu
+15,Tavin Daniel,freshman,Tavin15@college.edu,Psychology,14,NULL,NULL,el-Mansour,Geology,el-Mansour38@college.edu
+16,Tristan Phillips,freshman,Tristan16@college.edu,Biology,16,Computer Science,13,Bortz,Mathematics,Bortz6@college.edu
+17,Braxton Namons,senior,Braxton17@college.edu,Studio Art,13,NULL,NULL,Varghese,Journalism,Varghese17@college.edu
+18,Farha al-Harron,freshman,Farha18@college.edu,Psychology,14,NULL,NULL,el-Ashraf,Economics,el-Ashraf14@college.edu
+19,Saabir el-Mostafa,freshman,Saabir19@college.edu,Physics,16,Geology,14,Rael,Neuroscience,Rael35@college.edu
+20,Gage Martinez,junior,Gage20@college.edu,Sociology,16,Astronomy,15,Griego,Data Science,Griego20@college.edu
+21,Christopher Bennett,sophomore,Christopher21@college.edu,Mandarin,16,NULL,NULL,el-Ashraf,Economics,el-Ashraf14@college.edu
+22,Rylan Christley,senior,Rylan22@college.edu,Sociology,16,Statistics,13,Donaldson,Philosophy,Donaldson7@college.edu
+23,Jacqueline Tagawa,freshman,Jacqueline23@college.edu,Philosophy,14,Chemistry,16,Bedu Annan,Psychology,BeduAnnan26@college.edu
+24,Nicholas Aldaco,senior,Nicholas24@college.edu,Neuroscience,16,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+25,Hamsa el-Hasen,senior,Hamsa25@college.edu,History,14,History,14,Creighton Howard,History,CreightonHoward31@college.edu
+26,Jorge Vaca,freshman,Jorge26@college.edu,Astronomy,15,French,14,Von Holten,History,VonHolten30@college.edu
+27,Joon Ho Chun,senior,JoonHo27@college.edu,Creative Writing,15,NULL,NULL,Donaldson,Philosophy,Donaldson7@college.edu
+28,Naseera el-Yassin,senior,Naseera28@college.edu,Mandarin,16,Neuroscience,16,Solarin,Computer Science,Solarin32@college.edu
+29,Jason Landry,junior,Jason29@college.edu,Physics,16,Art History,15,el-Miah,Political Science,el-Miah15@college.edu
+30,Shamika Santistevan-Minnick,freshman,Shamika30@college.edu,Biology,16,Biology,16,Suarez,Statistics,Suarez40@college.edu
+31,Laila el-Aly,junior,Laila31@college.edu,Physics,16,Environmental Science,14,Lor,Biology,Lor43@college.edu
+32,Justin Yan,freshman,Justin32@college.edu,Creative Writing,15,Creative Writing,15,Martinez,Neuroscience,Martinez22@college.edu
+33,Chandler Alcon,freshman,Chandler33@college.edu,Statistics,13,Mandarin,16,Chen,Mandarin,Chen41@college.edu
+34,Matia Martinez,freshman,Matia34@college.edu,Art History,15,Sociology,16,Hall Pricket,Economics,HallPricket1@college.edu
+35,Cody Molina,senior,Cody35@college.edu,French,14,Spanish,14,Quarles,Data Science,Quarles46@college.edu
+36,Jose Vialpando,freshman,Jose36@college.edu,Spanish,14,Data Science,16,Lee,Neuroscience,Lee2@college.edu
+37,Shaahir el-Hussein,senior,Shaahir37@college.edu,Creative Writing,15,Art History,15,Von Holten,History,VonHolten30@college.edu
+38,Ezell Rothey,senior,Ezell38@college.edu,Political Science,13,NULL,NULL,Martinez,Psychology,Martinez10@college.edu
+39,Sanjay Axalan,freshman,Sanjay39@college.edu,Psychology,14,Statistics,13,Fischer,Art History,Fischer28@college.edu
+40,Leo Heyerdahl,junior,Leo40@college.edu,Economics,16,NULL,NULL,Sommer,History,Sommer3@college.edu
+41,Alejandro Dominguez,sophomore,Alejandro41@college.edu,Chemistry,16,NULL,NULL,Lee,Neuroscience,Lee2@college.edu
+42,Jazmin Aguilar,junior,Jazmin42@college.edu,Computer Science,13,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+43,Alyssa Kohler,sophomore,Alyssa43@college.edu,Statistics,13,NULL,NULL,Strand,French,Strand9@college.edu
+44,Alonzo Diawara,senior,Alonzo44@college.edu,English,14,Astronomy,15,Varghese,Journalism,Varghese17@college.edu
+45,Daniella Gurule,junior,Daniella45@college.edu,Astronomy,15,Psychology,14,Lor,Biology,Lor43@college.edu
+46,Raadi al-Haider,junior,Raadi46@college.edu,Psychology,14,Mandarin,16,Santillan,Journalism,Santillan11@college.edu
+47,Ariana Perez,junior,Ariana47@college.edu,History,14,Sociology,16,Sommer,History,Sommer3@college.edu
+48,Caitlin Vue,freshman,Caitlin48@college.edu,Philosophy,14,Chemistry,16,Melendez,Spanish,Melendez16@college.edu
+49,Marina Thompson,sophomore,Marina49@college.edu,Art History,15,Economics,16,Chen,Mandarin,Chen41@college.edu
+50,Zubaida al-Khalili,senior,Zubaida50@college.edu,Geology,14,NULL,NULL,Cardoza,Computer Science,Cardoza49@college.edu
+51,Brittany Nevarez,freshman,Brittany51@college.edu,Physics,16,Studio Art,13,Solarin,Computer Science,Solarin32@college.edu
+52,Monche'L Fox,junior,Monche'L52@college.edu,Astronomy,15,NULL,NULL,Hayes,Environmental Science,Hayes44@college.edu
+53,Kia Conover,junior,Kia53@college.edu,Statistics,13,NULL,NULL,Roberts,Philosophy,Roberts24@college.edu
+54,Megan Long,sophomore,Megan54@college.edu,Journalism,13,English,14,Rael,Neuroscience,Rael35@college.edu
+55,Teryn Reed,junior,Teryn55@college.edu,English,14,Political Science,13,Strand,French,Strand9@college.edu
+56,Madeline Avila,senior,Madeline56@college.edu,Astronomy,15,Spanish,14,Sommer,History,Sommer3@college.edu
+57,Nathaniel Lerma-Sanchez,sophomore,Nathaniel57@college.edu,English,14,Data Science,16,Varghese,Journalism,Varghese17@college.edu
+58,Sarah Lee,freshman,Sarah58@college.edu,Biology,16,NULL,NULL,Creighton Howard,History,CreightonHoward31@college.edu
+59,Fabiana Terrazas,junior,Fabiana59@college.edu,Philosophy,14,Philosophy,14,Varghese,Journalism,Varghese17@college.edu
+60,Cassidy Deeb,freshman,Cassidy60@college.edu,Political Science,13,NULL,NULL,Creighton Howard,History,CreightonHoward31@college.edu
+61,David Taylor,sophomore,David61@college.edu,French,14,NULL,NULL,Griego,Data Science,Griego20@college.edu
+62,Khulood al-Kamel,junior,Khulood62@college.edu,Studio Art,13,NULL,NULL,Milburn,Computer Science,Milburn48@college.edu
+63,Haafil al-Khawaja,senior,Haafil63@college.edu,Studio Art,13,NULL,NULL,Roberts,Philosophy,Roberts24@college.edu
+64,Ashraf el-Salek,senior,Ashraf64@college.edu,History,14,Art History,15,Ballard,Mathematics,Ballard45@college.edu
+65,Vu Khanal,sophomore,Vu65@college.edu,Chemistry,16,NULL,NULL,Sommer,Statistics,Sommer8@college.edu
+66,Matthew Kim,freshman,Matthew66@college.edu,Political Science,13,Sociology,16,Milburn,Computer Science,Milburn48@college.edu
+67,Haley Edgin,junior,Haley67@college.edu,Studio Art,13,Economics,16,el-Hameed,Neuroscience,el-Hameed34@college.edu
+68,Ander Vasquez,freshman,Ander68@college.edu,Chemistry,16,NULL,NULL,Medina,Geology,Medina19@college.edu
+69,Anna Ray,senior,Anna69@college.edu,Creative Writing,15,Computer Science,13,Strand,French,Strand9@college.edu
+70,Nawaar el-Chahine,senior,Nawaar70@college.edu,English,14,NULL,NULL,Cantor,Psychology,Cantor18@college.edu
+71,Jace Newberry,freshman,Jace71@college.edu,Economics,16,French,14,Santillan,Journalism,Santillan11@college.edu
+72,Esau Padilla,freshman,Esau72@college.edu,Mathematics,16,Geology,14,Suarez,Statistics,Suarez40@college.edu
+73,Megan Wei,junior,Megan73@college.edu,Biology,16,Data Science,16,Rael,Neuroscience,Rael35@college.edu
+74,Jenkins Karlzen,sophomore,Jenkins74@college.edu,Chemistry,16,NULL,NULL,Quarles,Data Science,Quarles46@college.edu
+75,Fabian Luevano,junior,Fabian75@college.edu,English,14,NULL,NULL,Dibello,Statistics,Dibello5@college.edu
+76,Hailey Pyfer,junior,Hailey76@college.edu,Chemistry,16,Economics,16,Strand,French,Strand9@college.edu
+77,Elizabeth Davidson,freshman,Elizabeth77@college.edu,Economics,16,Neuroscience,16,Brunson,Chemistry,Brunson47@college.edu
+78,Nico Goldman,freshman,Nico78@college.edu,French,14,Sociology,16,Rapp,Biology,Rapp4@college.edu
+79,Ryuma Tran,junior,Ryuma79@college.edu,Sociology,16,NULL,NULL,Roberts,Philosophy,Roberts24@college.edu
+80,Juan Lucero,sophomore,Juan80@college.edu,English,14,NULL,NULL,Von Holten,History,VonHolten30@college.edu
+81,Marcus Vinson,freshman,Marcus81@college.edu,Political Science,13,Neuroscience,16,Martinez,Psychology,Martinez10@college.edu
+82,Couric Running Rabbit,sophomore,Couric82@college.edu,Physics,16,Chemistry,16,Donaldson,Philosophy,Donaldson7@college.edu
+83,Rushdi el-Farid,sophomore,Rushdi83@college.edu,Spanish,14,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+84,Alix Sangalang,junior,Alix84@college.edu,Studio Art,13,Astronomy,15,Solarin,Computer Science,Solarin32@college.edu
+85,Samuel Rodriguez,senior,Samuel85@college.edu,Biology,16,NULL,NULL,Fischer,Art History,Fischer28@college.edu
+86,Timothy Paschke,sophomore,Timothy86@college.edu,History,14,Philosophy,14,Sommer,History,Sommer3@college.edu
+87,Jonathan Henderson,senior,Jonathan87@college.edu,Statistics,13,Neuroscience,16,Sommer,Statistics,Sommer8@college.edu
+88,Fawzaana el-Salehi,junior,Fawzaana88@college.edu,Neuroscience,16,Sociology,16,Milburn,Computer Science,Milburn48@college.edu
+89,Christina Portillo,sophomore,Christina89@college.edu,Statistics,13,Data Science,16,Lee,Neuroscience,Lee2@college.edu
+90,Sharaf al-Mohiuddin,freshman,Sharaf90@college.edu,English,14,Political Science,13,el-Ashraf,Economics,el-Ashraf14@college.edu
+91,Wyona Myers,junior,Wyona91@college.edu,Political Science,13,NULL,NULL,Sun,Mandarin,Sun25@college.edu
+92,Alan Kim,senior,Alan92@college.edu,Journalism,13,NULL,NULL,Sommer,Statistics,Sommer8@college.edu
+93,Sham'a el-Husain,junior,Sham'a93@college.edu,Journalism,13,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+94,Kadoranne Squires,senior,Kadoranne94@college.edu,Environmental Science,14,English,14,Beck-Alper,Economics,Beck-Alper37@college.edu
+95,Rachel Kreuzer,junior,Rachel95@college.edu,Spanish,14,NULL,NULL,Moline,Psychology,Moline39@college.edu
+96,Michaela Rincon,junior,Michaela96@college.edu,Sociology,16,Geology,14,Moline,Psychology,Moline39@college.edu
+97,Mohammad Lor,junior,Mohammad97@college.edu,Political Science,13,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+98,Haley Cook,junior,Haley98@college.edu,Psychology,14,Studio Art,13,Martinez,Psychology,Martinez10@college.edu
+99,Sabreen el-Salaam,freshman,Sabreen99@college.edu,English,14,Sociology,16,Varghese,Journalism,Varghese17@college.edu
+100,Shane Doxtater,freshman,Shane100@college.edu,History,14,Economics,16,Quarles,Data Science,Quarles46@college.edu
+101,Ana Rodriguez,sophomore,Ana101@college.edu,Biology,16,NULL,NULL,Sun,Mandarin,Sun25@college.edu
+102,Dylan Israel,freshman,Dylan102@college.edu,Astronomy,15,NULL,NULL,Fischer,Art History,Fischer28@college.edu
+103,Jordan Gibson,freshman,Jordan103@college.edu,Studio Art,13,NULL,NULL,Varghese,Journalism,Varghese17@college.edu
+104,Megan Marquez,freshman,Megan104@college.edu,Political Science,13,NULL,NULL,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+105,Austin Jurney,sophomore,Austin105@college.edu,Geology,14,Geology,14,Solarin,Computer Science,Solarin32@college.edu
+106,Davis Mann,sophomore,Davis106@college.edu,Philosophy,14,Geology,14,Melendez,Spanish,Melendez16@college.edu
+107,Majeeda el-Hamidi,senior,Majeeda107@college.edu,French,14,Biology,16,Cardoza,Computer Science,Cardoza49@college.edu
+108,Alaina Coen,senior,Alaina108@college.edu,Spanish,14,Mandarin,16,Creighton Howard,History,CreightonHoward31@college.edu
+109,Damien Ward,freshman,Damien109@college.edu,Economics,16,Mandarin,16,Brunson,Chemistry,Brunson47@college.edu
+110,Shivane Roseveare,sophomore,Shivane110@college.edu,Art History,15,NULL,NULL,Varghese,Journalism,Varghese17@college.edu
+111,Dominic Reddy,junior,Dominic111@college.edu,Environmental Science,14,Environmental Science,14,Varghese,Journalism,Varghese17@college.edu
+112,Lorena Villa Montelongo,sophomore,Lorena112@college.edu,Art History,15,Environmental Science,14,al-Sesay,Geology,al-Sesay42@college.edu
+113,Quincy Vela,junior,Quincy113@college.edu,Studio Art,13,NULL,NULL,Brunson,Chemistry,Brunson47@college.edu
+114,Shahid Sanderson,junior,Shahid114@college.edu,Geology,14,History,14,Moline,Psychology,Moline39@college.edu
+115,Amanda Cheng,sophomore,Amanda115@college.edu,Political Science,13,Psychology,14,al-Sesay,Geology,al-Sesay42@college.edu
+116,Anwar el-Qadir,sophomore,Anwar116@college.edu,Art History,15,NULL,NULL,Cardoza,Computer Science,Cardoza49@college.edu
+117,Daniel Black,senior,Daniel117@college.edu,Computer Science,13,Political Science,13,Barnhill,Astronomy,Barnhill36@college.edu
+118,Samantha Gelagay,senior,Samantha118@college.edu,Geology,14,NULL,NULL,Rapp,Biology,Rapp4@college.edu
+119,Tyler Newbern,sophomore,Tyler119@college.edu,Spanish,14,Economics,16,Brunson,Chemistry,Brunson47@college.edu
+120,Eric Yslas,junior,Eric120@college.edu,English,14,NULL,NULL,Beck-Alper,Economics,Beck-Alper37@college.edu
+121,Clifford Fountain,junior,Clifford121@college.edu,History,14,Journalism,13,Contreras,Creative Writing,Contreras13@college.edu
+122,Elberta Tran,sophomore,Elberta122@college.edu,Physics,16,NULL,NULL,Griego,Data Science,Griego20@college.edu
+123,Shaqeeqa el-Pashia,junior,Shaqeeqa123@college.edu,Spanish,14,English,14,Varghese,Journalism,Varghese17@college.edu
+124,Michael Char,freshman,Michael124@college.edu,Sociology,16,Neuroscience,16,Sommer,History,Sommer3@college.edu
+125,Ivy Hrelja,sophomore,Ivy125@college.edu,Spanish,14,NULL,NULL,Mccann,Environmental Science,Mccann23@college.edu
+126,Majdiyya al-Aboud,sophomore,Majdiyya126@college.edu,Mandarin,16,Biology,16,Roberts,Philosophy,Roberts24@college.edu
+127,Herbert Berry,senior,Herbert127@college.edu,Biology,16,English,14,Sun,Mandarin,Sun25@college.edu
+128,Rashaad el-Ammar,freshman,Rashaad128@college.edu,Psychology,14,NULL,NULL,Rapp,Biology,Rapp4@college.edu
+129,Sufyaan al-Hashmi,junior,Sufyaan129@college.edu,Environmental Science,14,Creative Writing,15,Chen,Mandarin,Chen41@college.edu
+130,Wasmaaa el-Hosein,freshman,Wasmaaa130@college.edu,Geology,14,Biology,16,Hayes,Environmental Science,Hayes44@college.edu
+131,Hamad el-Ghani,freshman,Hamad131@college.edu,Philosophy,14,NULL,NULL,Adams,Economics,Adams21@college.edu
+132,Amanda Lefholz,junior,Amanda132@college.edu,Geology,14,NULL,NULL,Hayes,Environmental Science,Hayes44@college.edu
+133,Alayna Zito,senior,Alayna133@college.edu,Mathematics,16,Astronomy,15,Griego,Data Science,Griego20@college.edu
+134,Cesar Salcido Gonzalez,senior,Cesar134@college.edu,Creative Writing,15,Psychology,14,Moline,Psychology,Moline39@college.edu
+135,Amanda Rae,junior,Amanda135@college.edu,Philosophy,14,Spanish,14,Moline,Psychology,Moline39@college.edu
+136,Charlene Nichols,senior,Charlene136@college.edu,Mathematics,16,NULL,NULL,Sommer,Statistics,Sommer8@college.edu
+137,Erin Williams,sophomore,Erin137@college.edu,Philosophy,14,Art History,15,Melendez,Spanish,Melendez16@college.edu
+138,Christopher Tefera,junior,Christopher138@college.edu,Mathematics,16,NULL,NULL,Martinez,Neuroscience,Martinez22@college.edu
+139,Angelique Castle,junior,Angelique139@college.edu,Political Science,13,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+140,Grayling Gosha,junior,Grayling140@college.edu,Mandarin,16,Sociology,16,Medina,Geology,Medina19@college.edu
+141,Ashlie Bradley,junior,Ashlie141@college.edu,Statistics,13,NULL,NULL,Suarez,Statistics,Suarez40@college.edu
+142,Jose Villalobos,sophomore,Jose142@college.edu,Sociology,16,French,14,Rael,Neuroscience,Rael35@college.edu
+143,Ashleigh Moy,senior,Ashleigh143@college.edu,English,14,Mandarin,16,Melendez,Spanish,Melendez16@college.edu
+144,Destry Schlegel,senior,Destry144@college.edu,Spanish,14,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+145,Kayla Raab,senior,Kayla145@college.edu,Mathematics,16,NULL,NULL,Bortz,Mathematics,Bortz6@college.edu
+146,Meng-Chien Nagao,sophomore,Meng-Chien146@college.edu,Sociology,16,Physics,16,Adams,Economics,Adams21@college.edu
+147,Stephanie Helfer,freshman,Stephanie147@college.edu,Astronomy,15,Economics,16,Bortz,Mathematics,Bortz6@college.edu
+148,Nathaniel Trevino,senior,Nathaniel148@college.edu,Studio Art,13,Data Science,16,Santillan,Journalism,Santillan11@college.edu
+149,Paul Griffin,freshman,Paul149@college.edu,French,14,Philosophy,14,Donaldson,Philosophy,Donaldson7@college.edu
+150,Lael Thomas,senior,Lael150@college.edu,Neuroscience,16,NULL,NULL,Lor,Biology,Lor43@college.edu
+151,Alyssa Fugate,freshman,Alyssa151@college.edu,English,14,English,14,Creighton Howard,History,CreightonHoward31@college.edu
+152,Amy Moua,freshman,Amy152@college.edu,Political Science,13,Astronomy,15,Milburn,Computer Science,Milburn48@college.edu
+153,Naazil el-Kamel,junior,Naazil153@college.edu,Geology,14,English,14,el-Miah,Political Science,el-Miah15@college.edu
+154,Christopher Goggins,senior,Christopher154@college.edu,Computer Science,13,Economics,16,Rael,Neuroscience,Rael35@college.edu
+155,Julia Lenahan,junior,Julia155@college.edu,Environmental Science,14,Statistics,13,Cardoza,Computer Science,Cardoza49@college.edu
+156,Daniel Younger,junior,Daniel156@college.edu,English,14,NULL,NULL,Solarin,Computer Science,Solarin32@college.edu
+157,Rabi el-Mansoor,junior,Rabi157@college.edu,Chemistry,16,NULL,NULL,Griego,Data Science,Griego20@college.edu
+158,Breanna Burt,senior,Breanna158@college.edu,Computer Science,13,Biology,16,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+159,Hasana al-Taha,freshman,Hasana159@college.edu,Statistics,13,Studio Art,13,el-Mansour,Geology,el-Mansour38@college.edu
+160,Mikaela Watts,junior,Mikaela160@college.edu,Environmental Science,14,Astronomy,15,Santillan,Journalism,Santillan11@college.edu
+161,Mia Carpenter,freshman,Mia161@college.edu,Environmental Science,14,English,14,el-Hameed,Neuroscience,el-Hameed34@college.edu
+162,Phu Palmer,junior,Phu162@college.edu,History,14,Spanish,14,Adams,Economics,Adams21@college.edu
+163,Edward Zhang,senior,Edward163@college.edu,English,14,NULL,NULL,Lor,Biology,Lor43@college.edu
+164,Margarita Williams,senior,Margarita164@college.edu,Spanish,14,NULL,NULL,Medina,Geology,Medina19@college.edu
+165,Tzetzi Gonzales,junior,Tzetzi165@college.edu,Chemistry,16,French,14,Melendez,Spanish,Melendez16@college.edu
+166,Bradley Brunk,junior,Bradley166@college.edu,Economics,16,NULL,NULL,Lor,Biology,Lor43@college.edu
+167,Kyle Carter,senior,Kyle167@college.edu,Geology,14,Philosophy,14,Barnhill,Astronomy,Barnhill36@college.edu
+168,Kathleen Wolf,sophomore,Kathleen168@college.edu,Chemistry,16,NULL,NULL,Lee,Neuroscience,Lee2@college.edu
+169,Westin Ingram,sophomore,Westin169@college.edu,Geology,14,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+170,Jaime Mock,senior,Jaime170@college.edu,History,14,Journalism,13,Sun,Mandarin,Sun25@college.edu
+171,Jennifer Yaws,sophomore,Jennifer171@college.edu,Spanish,14,Statistics,13,Melendez,Spanish,Melendez16@college.edu
+172,Serina Annamalai,junior,Serina172@college.edu,Mandarin,16,Spanish,14,Sun,Mandarin,Sun25@college.edu
+173,Alyce Burnett,sophomore,Alyce173@college.edu,Mathematics,16,English,14,Contreras,Creative Writing,Contreras13@college.edu
+174,Sameera el-Jama,sophomore,Sameera174@college.edu,Neuroscience,16,NULL,NULL,Beck-Alper,Economics,Beck-Alper37@college.edu
+175,Va'Aahi Kane,sophomore,Va'Aahi175@college.edu,Art History,15,Geology,14,Adams,Economics,Adams21@college.edu
+176,Andres Wallace,senior,Andres176@college.edu,Spanish,14,NULL,NULL,Beck-Alper,Economics,Beck-Alper37@college.edu
+177,Danica Gruber,junior,Danica177@college.edu,Art History,15,NULL,NULL,Strand,French,Strand9@college.edu
+178,Jubair al-Amber,junior,Jubair178@college.edu,French,14,NULL,NULL,Milburn,Computer Science,Milburn48@college.edu
+179,Rosa Pierce,junior,Rosa179@college.edu,Mathematics,16,Spanish,14,Martinez,Psychology,Martinez10@college.edu
+180,Ryan Hoag,sophomore,Ryan180@college.edu,Mandarin,16,Computer Science,13,Medina,Geology,Medina19@college.edu
+181,Charlene Morris,senior,Charlene181@college.edu,Sociology,16,NULL,NULL,Martinez,Neuroscience,Martinez22@college.edu
+182,Keumsan Parker,freshman,Keumsan182@college.edu,History,14,Psychology,14,Adams,Economics,Adams21@college.edu
+183,Roshan Vang,junior,Roshan183@college.edu,Philosophy,14,History,14,Medina,Geology,Medina19@college.edu
+184,Charli Hilliard,sophomore,Charli184@college.edu,Astronomy,15,NULL,NULL,el-Hameed,Neuroscience,el-Hameed34@college.edu
+185,Ashley Martinez,junior,Ashley185@college.edu,Creative Writing,15,Neuroscience,16,el-Hameed,Neuroscience,el-Hameed34@college.edu
+186,Tara Nguyen,senior,Tara186@college.edu,Statistics,13,Psychology,14,Rapp,Biology,Rapp4@college.edu
+187,Cindy Delarosa,junior,Cindy187@college.edu,Psychology,14,NULL,NULL,Creighton Howard,History,CreightonHoward31@college.edu
+188,Clinton Banuelos,junior,Clinton188@college.edu,Statistics,13,French,14,Bortz,Mathematics,Bortz6@college.edu
+189,Edison Ketchum,junior,Edison189@college.edu,Mathematics,16,Neuroscience,16,Creighton Howard,History,CreightonHoward31@college.edu
+190,Isaiah Boston,freshman,Isaiah190@college.edu,Computer Science,13,NULL,NULL,Sommer,Statistics,Sommer8@college.edu
+191,Isaac Blitzer,sophomore,Isaac191@college.edu,Journalism,13,NULL,NULL,Medina,Geology,Medina19@college.edu
+192,Andre Charles,senior,Andre192@college.edu,Statistics,13,NULL,NULL,Milburn,Computer Science,Milburn48@college.edu
+193,Olga Sanchez,senior,Olga193@college.edu,Data Science,16,Creative Writing,15,Adams,Economics,Adams21@college.edu
+194,Tynisha Dewhere,sophomore,Tynisha194@college.edu,Spanish,14,Mandarin,16,Cantor,Psychology,Cantor18@college.edu
+195,Michael Schmalz,junior,Michael195@college.edu,Creative Writing,15,Psychology,14,Beck-Alper,Economics,Beck-Alper37@college.edu
+196,Chia-Hsin Schwartz,sophomore,Chia-Hsin196@college.edu,French,14,Studio Art,13,Lobato,Physics,Lobato33@college.edu
+197,Sadyan Murphy,senior,Sadyan197@college.edu,Philosophy,14,NULL,NULL,Mccann,Environmental Science,Mccann23@college.edu
+198,Travis Conrad,sophomore,Travis198@college.edu,Geology,14,Data Science,16,Hall Pricket,Economics,HallPricket1@college.edu
+199,Timothee Galloway,sophomore,Timothee199@college.edu,Biology,16,Environmental Science,14,Giles,Statistics,Giles12@college.edu
+200,Tyre Smith,junior,Tyre200@college.edu,Philosophy,14,Philosophy,14,Hayes,Environmental Science,Hayes44@college.edu
+201,Neeshaan el-Farran,senior,Neeshaan201@college.edu,Philosophy,14,NULL,NULL,Lor,Biology,Lor43@college.edu
+202,Abigail Bozik,junior,Abigail202@college.edu,Neuroscience,16,Astronomy,15,Varghese,Journalism,Varghese17@college.edu
+203,Sahl al-Hameed,sophomore,Sahl203@college.edu,Biology,16,NULL,NULL,Baca,Environmental Science,Baca50@college.edu
+204,Felicia Wells,freshman,Felicia204@college.edu,Creative Writing,15,Data Science,16,Suarez,Statistics,Suarez40@college.edu
+205,Ummu Kulthoom el-Hammoud,junior,UmmuKulthoom205@college.edu,Journalism,13,NULL,NULL,Moline,Psychology,Moline39@college.edu
+206,Samuel Garner,freshman,Samuel206@college.edu,Astronomy,15,French,14,Giles,Statistics,Giles12@college.edu
+207,Insaaf al-Elamin,junior,Insaaf207@college.edu,History,14,Chemistry,16,Baca,Environmental Science,Baca50@college.edu
+208,Jesus Lafore,junior,Jesus208@college.edu,Philosophy,14,Sociology,16,Santillan,Journalism,Santillan11@college.edu
+209,Judith Apodaca Carlson,senior,Judith209@college.edu,Geology,14,NULL,NULL,Moline,Psychology,Moline39@college.edu
+210,Tae Woo Caotrieu,freshman,TaeWoo210@college.edu,Mandarin,16,English,14,Baca,Environmental Science,Baca50@college.edu
+211,Louis Guzman Guzman,junior,Louis211@college.edu,French,14,NULL,NULL,Cantor,Psychology,Cantor18@college.edu
+212,Aaron Radford,sophomore,Aaron212@college.edu,History,14,History,14,Martinez,Neuroscience,Martinez22@college.edu
+213,Joseph Canono,junior,Joseph213@college.edu,Studio Art,13,NULL,NULL,Hayes,Environmental Science,Hayes44@college.edu
+214,Jared Christian Nagashima,freshman,JaredChristian214@college.edu,Studio Art,13,Geology,14,Contreras,Creative Writing,Contreras13@college.edu
+215,Michelle Chacon,sophomore,Michelle215@college.edu,French,14,French,14,Chen,Mandarin,Chen41@college.edu
+216,Angela Johnson,senior,Angela216@college.edu,Statistics,13,English,14,Brunson,Chemistry,Brunson47@college.edu
+217,Jaimin Rieb,junior,Jaimin217@college.edu,Geology,14,Mathematics,16,Von Holten,History,VonHolten30@college.edu
+218,Garrett Shafroth,sophomore,Garrett218@college.edu,French,14,Mandarin,16,Chen,Mandarin,Chen41@college.edu
+219,Chance Mose,sophomore,Chance219@college.edu,Neuroscience,16,Neuroscience,16,el-Hameed,Neuroscience,el-Hameed34@college.edu
+220,Brittiny Murphy,junior,Brittiny220@college.edu,Statistics,13,NULL,NULL,Martinez,Psychology,Martinez10@college.edu
+221,Johnathan Ajing,junior,Johnathan221@college.edu,Mathematics,16,NULL,NULL,Suarez,Statistics,Suarez40@college.edu
+222,Dylan Rogers,sophomore,Dylan222@college.edu,Spanish,14,Computer Science,13,Ballard,Mathematics,Ballard45@college.edu
+223,Munjid el-Farman,senior,Munjid223@college.edu,Art History,15,Data Science,16,Creighton Howard,History,CreightonHoward31@college.edu
+224,Matthew-Angelo Daley,sophomore,Matthew-Angelo224@college.edu,English,14,NULL,NULL,Chen,Mandarin,Chen41@college.edu
+225,Emily Smithey,freshman,Emily225@college.edu,Art History,15,NULL,NULL,Chen,Mandarin,Chen41@college.edu
+226,Jesse Salas-Smith,sophomore,Jesse226@college.edu,Art History,15,Biology,16,Roberts,Philosophy,Roberts24@college.edu
+227,Kamau Ellis,freshman,Kamau227@college.edu,Geology,14,Neuroscience,16,Lor,Biology,Lor43@college.edu
+228,Ashley Mion,senior,Ashley228@college.edu,French,14,Studio Art,13,Medina,Geology,Medina19@college.edu
+229,Duncan Williams,sophomore,Duncan229@college.edu,Computer Science,13,Sociology,16,Lee,Neuroscience,Lee2@college.edu
+230,Brian Marks,freshman,Brian230@college.edu,Creative Writing,15,Chemistry,16,el-Hameed,Neuroscience,el-Hameed34@college.edu
+231,Sydney Allen,junior,Sydney231@college.edu,Journalism,13,Data Science,16,Cardoza,Computer Science,Cardoza49@college.edu
+232,Atiyya el-Sinai,junior,Atiyya232@college.edu,English,14,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+233,Domenic Truong,sophomore,Domenic233@college.edu,Art History,15,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+234,Sean Foster,sophomore,Sean234@college.edu,English,14,NULL,NULL,Sommer,Statistics,Sommer8@college.edu
+235,Mamoon al-El-Sayed,junior,Mamoon235@college.edu,Data Science,16,Data Science,16,el-Miah,Political Science,el-Miah15@college.edu
+236,Brock Stapleton,sophomore,Brock236@college.edu,Spanish,14,History,14,Lambright,Data Science,Lambright27@college.edu
+237,Naaji el-Amir,sophomore,Naaji237@college.edu,Art History,15,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+238,Faunte Hamlin,senior,Faunte238@college.edu,English,14,Economics,16,Hall Pricket,Economics,HallPricket1@college.edu
+239,Long Tafoya,sophomore,Long239@college.edu,Data Science,16,NULL,NULL,el-Hameed,Neuroscience,el-Hameed34@college.edu
+240,Thu Xiong,senior,Thu240@college.edu,Chemistry,16,Mathematics,16,al-Sesay,Geology,al-Sesay42@college.edu
+241,Jacob Pohl,senior,Jacob241@college.edu,Political Science,13,Mathematics,16,al-Sesay,Geology,al-Sesay42@college.edu
+242,Hope Adair,sophomore,Hope242@college.edu,Geology,14,NULL,NULL,Barnhill,Astronomy,Barnhill36@college.edu
+243,Tesse Cole,sophomore,Tesse243@college.edu,Creative Writing,15,NULL,NULL,Sun,Mandarin,Sun25@college.edu
+244,Jacob Begaye,senior,Jacob244@college.edu,Physics,16,Geology,14,Rapp,Biology,Rapp4@college.edu
+245,Mazeed el-Mona,sophomore,Mazeed245@college.edu,Mandarin,16,Statistics,13,al-Sesay,Geology,al-Sesay42@college.edu
+246,Kari Harju,junior,Kari246@college.edu,Art History,15,NULL,NULL,Rapp,Biology,Rapp4@college.edu
+247,Edith Flores Flores,freshman,Edith247@college.edu,Neuroscience,16,NULL,NULL,Mccann,Environmental Science,Mccann23@college.edu
+248,Nicole White,senior,Nicole248@college.edu,Physics,16,Environmental Science,14,el-Miah,Political Science,el-Miah15@college.edu
+249,Anas al-Sultana,sophomore,Anas249@college.edu,Philosophy,14,NULL,NULL,Mccann,Environmental Science,Mccann23@college.edu
+250,Richard Musich,freshman,Richard250@college.edu,Sociology,16,Studio Art,13,Cantor,Psychology,Cantor18@college.edu
+251,Jalen Vincent,sophomore,Jalen251@college.edu,Chemistry,16,Computer Science,13,Beck-Alper,Economics,Beck-Alper37@college.edu
+252,Justin Mcbride,freshman,Justin252@college.edu,Political Science,13,NULL,NULL,Sommer,Statistics,Sommer8@college.edu
+253,Alfredo Miranda,freshman,Alfredo253@college.edu,Art History,15,Data Science,16,el-Hameed,Neuroscience,el-Hameed34@college.edu
+254,Lobad Hyun,junior,Lobad254@college.edu,Mandarin,16,Spanish,14,Brunson,Chemistry,Brunson47@college.edu
+255,Codie Perez,sophomore,Codie255@college.edu,Neuroscience,16,Mandarin,16,al-Sesay,Geology,al-Sesay42@college.edu
+256,Brylon Saeed,senior,Brylon256@college.edu,Economics,16,Sociology,16,Bedu Annan,Psychology,BeduAnnan26@college.edu
+257,Marjaana al-Begum,sophomore,Marjaana257@college.edu,Political Science,13,Geology,14,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+258,Tyler Jenkins,freshman,Tyler258@college.edu,Creative Writing,15,NULL,NULL,Medina,Geology,Medina19@college.edu
+259,Kenny Merrill,senior,Kenny259@college.edu,Journalism,13,Creative Writing,15,Bedu Annan,Psychology,BeduAnnan26@college.edu
+260,Jazli Venters,sophomore,Jazli260@college.edu,Psychology,14,Creative Writing,15,Melendez,Spanish,Melendez16@college.edu
+261,Winta Campbell,senior,Winta261@college.edu,History,14,Environmental Science,14,Bedu Annan,Psychology,BeduAnnan26@college.edu
+262,Ischara Wake,sophomore,Ischara262@college.edu,Art History,15,NULL,NULL,Strand,French,Strand9@college.edu
+263,Farhaan el-Mostafa,junior,Farhaan263@college.edu,Geology,14,NULL,NULL,Lambright,Data Science,Lambright27@college.edu
+264,Kayla Manning,senior,Kayla264@college.edu,Psychology,14,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+265,Victoria Quintana,sophomore,Victoria265@college.edu,Mathematics,16,Statistics,13,Santillan,Journalism,Santillan11@college.edu
+266,Issiah Hooper,sophomore,Issiah266@college.edu,Spanish,14,NULL,NULL,Lee,Neuroscience,Lee2@college.edu
+267,Tieran Lang,sophomore,Tieran267@college.edu,Statistics,13,NULL,NULL,el-Ashraf,Economics,el-Ashraf14@college.edu
+268,Aslam el-Popal,sophomore,Aslam268@college.edu,Studio Art,13,Statistics,13,Martinez,Psychology,Martinez10@college.edu
+269,Chloe Stockinger,junior,Chloe269@college.edu,Physics,16,Art History,15,Baca,Environmental Science,Baca50@college.edu
+270,Tuli Albani-Burgio,senior,Tuli270@college.edu,French,14,Chemistry,16,Martinez,Psychology,Martinez10@college.edu
+271,Nahla el-Reza,freshman,Nahla271@college.edu,Computer Science,13,NULL,NULL,Medina,Geology,Medina19@college.edu
+272,Shahaada el-Mostafa,freshman,Shahaada272@college.edu,Mandarin,16,Mandarin,16,Adams,Economics,Adams21@college.edu
+273,Jazmine Hensinger II,freshman,Jazmine273@college.edu,French,14,NULL,NULL,Barnhill,Astronomy,Barnhill36@college.edu
+274,Alexandra Burgess,senior,Alexandra274@college.edu,Biology,16,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+275,Jada Hooper,senior,Jada275@college.edu,Physics,16,NULL,NULL,Martinez,Psychology,Martinez10@college.edu
+276,Aubrey Martin,sophomore,Aubrey276@college.edu,Journalism,13,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+277,Sean Quaif,junior,Sean277@college.edu,Sociology,16,Art History,15,Melendez,Spanish,Melendez16@college.edu
+278,Sham'a el-Kamel,senior,Sham'a278@college.edu,Geology,14,History,14,Rael,Neuroscience,Rael35@college.edu
+279,Eduardo Otero,freshman,Eduardo279@college.edu,Biology,16,Creative Writing,15,Sun,Mandarin,Sun25@college.edu
+280,Ashley Curtice,senior,Ashley280@college.edu,Environmental Science,14,Spanish,14,al-Sesay,Geology,al-Sesay42@college.edu
+281,Picabo Yohe-Ironwing,freshman,Picabo281@college.edu,Statistics,13,Spanish,14,Giles,Statistics,Giles12@college.edu
+282,Katelyn Jiron,sophomore,Katelyn282@college.edu,English,14,Biology,16,el-Hameed,Neuroscience,el-Hameed34@college.edu
+283,Jerrica Avila,senior,Jerrica283@college.edu,Computer Science,13,Computer Science,13,Beck-Alper,Economics,Beck-Alper37@college.edu
+284,Adrianna Flores,junior,Adrianna284@college.edu,Economics,16,NULL,NULL,Roberts,Philosophy,Roberts24@college.edu
+285,Adrian Padilla,junior,Adrian285@college.edu,Sociology,16,Data Science,16,Milburn,Computer Science,Milburn48@college.edu
+286,Kelli Fiddelke,senior,Kelli286@college.edu,Mandarin,16,Sociology,16,Adams,Economics,Adams21@college.edu
+287,Raakaan el-Hai,freshman,Raakaan287@college.edu,Chemistry,16,Studio Art,13,Ballard,Mathematics,Ballard45@college.edu
+288,Quan Ripoll-Bunn,freshman,Quan288@college.edu,Philosophy,14,NULL,NULL,Lambright,Data Science,Lambright27@college.edu
+289,Rachael Thao,junior,Rachael289@college.edu,Philosophy,14,NULL,NULL,Roberts,Philosophy,Roberts24@college.edu
+290,Dominic Carbajal,junior,Dominic290@college.edu,Astronomy,15,Neuroscience,16,Strand,French,Strand9@college.edu
+291,Abigail Chester,senior,Abigail291@college.edu,Mandarin,16,Journalism,13,Suarez,Statistics,Suarez40@college.edu
+292,Courtney Marshall,junior,Courtney292@college.edu,Spanish,14,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+293,Jordan Enriquez,senior,Jordan293@college.edu,Psychology,14,NULL,NULL,Solarin,Computer Science,Solarin32@college.edu
+294,Zemly White,freshman,Zemly294@college.edu,Neuroscience,16,Data Science,16,Moline,Psychology,Moline39@college.edu
+295,Christopher Torrez,sophomore,Christopher295@college.edu,Chemistry,16,NULL,NULL,Hall Pricket,Economics,HallPricket1@college.edu
+296,Levi Stanton,senior,Levi296@college.edu,Spanish,14,French,14,Dibello,Statistics,Dibello5@college.edu
+297,Sundus el-Hasan,senior,Sundus297@college.edu,Philosophy,14,NULL,NULL,Dibello,Statistics,Dibello5@college.edu
+298,Okatomi Lang,junior,Okatomi298@college.edu,Statistics,13,NULL,NULL,Baca,Environmental Science,Baca50@college.edu
+299,Joshua Sanchez-Crum,senior,Joshua299@college.edu,Sociology,16,Psychology,14,Fischer,Art History,Fischer28@college.edu
+300,Corrina Choi,freshman,Corrina300@college.edu,History,14,Physics,16,Bortz,Mathematics,Bortz6@college.edu
+301,Jovon Johnson,senior,Jovon301@college.edu,History,14,NULL,NULL,Rael,Neuroscience,Rael35@college.edu
+302,Santana Murray,sophomore,Santana302@college.edu,Economics,16,NULL,NULL,Lee,Neuroscience,Lee2@college.edu
+303,Cinthia Hernandez,senior,Cinthia303@college.edu,Economics,16,Physics,16,Donaldson,Philosophy,Donaldson7@college.edu
+304,Shawn Elpuz,freshman,Shawn304@college.edu,Statistics,13,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+305,Alonis Carlton,freshman,Alonis305@college.edu,English,14,NULL,NULL,Rapp,Biology,Rapp4@college.edu
+306,Mudrika al-Khalifa,junior,Mudrika306@college.edu,Political Science,13,NULL,NULL,Hall Pricket,Economics,HallPricket1@college.edu
+307,Alia Carlo,senior,Alia307@college.edu,Political Science,13,Physics,16,Sun,Mandarin,Sun25@college.edu
+308,Markella Hurst,senior,Markella308@college.edu,Chemistry,16,Statistics,13,Quarles,Data Science,Quarles46@college.edu
+309,Afeefa el-Amen,senior,Afeefa309@college.edu,Astronomy,15,English,14,el-Ashraf,Economics,el-Ashraf14@college.edu
+310,Andrea Lopez-Jimenez,sophomore,Andrea310@college.edu,Mathematics,16,NULL,NULL,Giles,Statistics,Giles12@college.edu
+311,Christopher Miller,junior,Christopher311@college.edu,Mathematics,16,NULL,NULL,Cantor,Psychology,Cantor18@college.edu
+312,Nicholas Chanthavongsa,freshman,Nicholas312@college.edu,Physics,16,Economics,16,Cantor,Psychology,Cantor18@college.edu
+313,Davis Blancaflor,sophomore,Davis313@college.edu,Art History,15,Economics,16,Ballard,Mathematics,Ballard45@college.edu
+314,Abdur Rasheed el-Rizk,sophomore,AbdurRasheed314@college.edu,Art History,15,Geology,14,Beck-Alper,Economics,Beck-Alper37@college.edu
+315,Rashawn Rice,freshman,Rashawn315@college.edu,Political Science,13,Mathematics,16,Medina,Geology,Medina19@college.edu
+316,Jared Patterson,freshman,Jared316@college.edu,Psychology,14,Spanish,14,Strand,French,Strand9@college.edu
+317,Nou Kiefel,sophomore,Nou317@college.edu,Geology,14,NULL,NULL,Baca,Environmental Science,Baca50@college.edu
+318,Joshua Johnson,freshman,Joshua318@college.edu,Creative Writing,15,Spanish,14,Lor,Biology,Lor43@college.edu
+319,Jasper Haley,senior,Jasper319@college.edu,French,14,NULL,NULL,Strand,French,Strand9@college.edu
+320,Terri Strand,senior,Terri320@college.edu,Mathematics,16,Mathematics,16,Ballard,Mathematics,Ballard45@college.edu
+321,Shaaheen al-Mahfouz,sophomore,Shaaheen321@college.edu,Computer Science,13,French,14,Lor,Biology,Lor43@college.edu
+322,Haseeb Long,junior,Haseeb322@college.edu,History,14,Spanish,14,Solarin,Computer Science,Solarin32@college.edu
+323,Sadeeqa el-Yamin,sophomore,Sadeeqa323@college.edu,Sociology,16,Geology,14,Santillan,Journalism,Santillan11@college.edu
+324,Jesus Trujillo,freshman,Jesus324@college.edu,Mathematics,16,Data Science,16,Sun,Mandarin,Sun25@college.edu
+325,Christopher Wu,freshman,Christopher325@college.edu,Studio Art,13,NULL,NULL,Sommer,History,Sommer3@college.edu
+326,Faalih el-Beshara,junior,Faalih326@college.edu,Environmental Science,14,NULL,NULL,Lobato,Physics,Lobato33@college.edu
+327,Brian Tandon,sophomore,Brian327@college.edu,Data Science,16,Art History,15,Moline,Psychology,Moline39@college.edu
+328,Roger Cohen,freshman,Roger328@college.edu,History,14,English,14,Quarles,Data Science,Quarles46@college.edu
+329,James Roybal,junior,James329@college.edu,Political Science,13,Studio Art,13,Quarles,Data Science,Quarles46@college.edu
+330,Elizabeth Rittenhouse,freshman,Elizabeth330@college.edu,Journalism,13,Neuroscience,16,Sun,Mandarin,Sun25@college.edu
+331,Isaiah Culberson,junior,Isaiah331@college.edu,Spanish,14,NULL,NULL,Roberts,Philosophy,Roberts24@college.edu
+332,Miriam Vidal,junior,Miriam332@college.edu,History,14,Physics,16,Cantor,Psychology,Cantor18@college.edu
+333,Carlos Padilla,senior,Carlos333@college.edu,Neuroscience,16,Environmental Science,14,Sommer,Statistics,Sommer8@college.edu
+334,Mubarak al-Nouri,junior,Mubarak334@college.edu,Biology,16,NULL,NULL,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+335,Unikka Gebre Kidane,freshman,Unikka335@college.edu,Philosophy,14,Geology,14,Strand,French,Strand9@college.edu
+336,Ramon Quintero,junior,Ramon336@college.edu,Psychology,14,Astronomy,15,Strand,French,Strand9@college.edu
+337,Jemletta Do,sophomore,Jemletta337@college.edu,Political Science,13,NULL,NULL,Von Holten,History,VonHolten30@college.edu
+338,Lars Brown,freshman,Lars338@college.edu,Journalism,13,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+339,Esmeralda Pacheco,junior,Esmeralda339@college.edu,Art History,15,Geology,14,Dibello,Statistics,Dibello5@college.edu
+340,Matthew Young,senior,Matthew340@college.edu,Data Science,16,History,14,Strand,French,Strand9@college.edu
+341,Fuaad al-Abbasi,freshman,Fuaad341@college.edu,History,14,Data Science,16,Milburn,Computer Science,Milburn48@college.edu
+342,Daniel Ayres,senior,Daniel342@college.edu,Astronomy,15,NULL,NULL,Beck-Alper,Economics,Beck-Alper37@college.edu
+343,Christopher Franklin-Castillo,freshman,Christopher343@college.edu,Philosophy,14,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+344, Sakeena al-Salah,freshman,Sakeena344@college.edu,Mandarin,16,NULL,NULL,Lambright,Data Science,Lambright27@college.edu
+345,Jaxziah Ly,junior,Jaxziah345@college.edu,Philosophy,14,Sociology,16,Solarin,Computer Science,Solarin32@college.edu
+346,Ian Strong,senior,Ian346@college.edu,Physics,16,NULL,NULL,Moline,Psychology,Moline39@college.edu
+347,Shay Israel,junior,Shay347@college.edu,Chemistry,16,NULL,NULL,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+348,Lucero Lynn,sophomore,Lucero348@college.edu,Computer Science,13,Environmental Science,14,Varghese,Journalism,Varghese17@college.edu
+349,Miranda Lovins,sophomore,Miranda349@college.edu,Data Science,16,Journalism,13,Santillan,Journalism,Santillan11@college.edu
+350,Zackieus Sugar,senior,Zackieus350@college.edu,French,14,History,14,Cantor,Psychology,Cantor18@college.edu
+351,Kenneth Trimble,sophomore,Kenneth351@college.edu,Biology,16,NULL,NULL,Hall Pricket,Economics,HallPricket1@college.edu
+352,Syed Moua,junior,Syed352@college.edu,Neuroscience,16,Psychology,14,Milburn,Computer Science,Milburn48@college.edu
+353,Castine Heng,senior,Castine353@college.edu,Mathematics,16,Political Science,13,Lee,Neuroscience,Lee2@college.edu
+354,Mercy Hopkins,sophomore,Mercy354@college.edu,Studio Art,13,Physics,16,el-Miah,Political Science,el-Miah15@college.edu
+355,Manaara el-Miah,senior,Manaara355@college.edu,Physics,16,NULL,NULL,Lambright,Data Science,Lambright27@college.edu
+356,Alicia Mccormick,senior,Alicia356@college.edu,Computer Science,13,NULL,NULL,Dibello,Statistics,Dibello5@college.edu
+357,Tyrous Gatling,junior,Tyrous357@college.edu,Economics,16,Art History,15,Lor,Biology,Lor43@college.edu
+358,Michael Bonser,freshman,Michael358@college.edu,Psychology,14,NULL,NULL,Griego,Data Science,Griego20@college.edu
+359,Sereno Miller,senior,Sereno359@college.edu,Environmental Science,14,Mandarin,16,Fischer,Art History,Fischer28@college.edu
+360,Desmond Cleveland Leaks,freshman,Desmond360@college.edu,Studio Art,13,Environmental Science,14,Milburn,Computer Science,Milburn48@college.edu
+361,Travis Mo,junior,Travis361@college.edu,Creative Writing,15,Philosophy,14,el-Mansour,Geology,el-Mansour38@college.edu
+362,Jennifer Chee,junior,Jennifer362@college.edu,Psychology,14,NULL,NULL,el-Ashraf,Economics,el-Ashraf14@college.edu
+363,Sidqi al-Mina,sophomore,Sidqi363@college.edu,Computer Science,13,Mandarin,16,Brunson,Chemistry,Brunson47@college.edu
+364,Noel Gutierrez Vasquez,junior,Noel364@college.edu,French,14,Geology,14,Giles,Statistics,Giles12@college.edu
+365,Brandon Shaver,freshman,Brandon365@college.edu,Biology,16,Chemistry,16,Ballard,Mathematics,Ballard45@college.edu
+366,Faraj el-Kazi,senior,Faraj366@college.edu,Political Science,13,Chemistry,16,Roberts,Philosophy,Roberts24@college.edu
+367,Alejandro Velazquez,sophomore,Alejandro367@college.edu,Journalism,13,NULL,NULL,Hall Pricket,Economics,HallPricket1@college.edu
+368,Suhaad al-Baccus,junior,Suhaad368@college.edu,Physics,16,NULL,NULL,el-Mansour,Geology,el-Mansour38@college.edu
+369,Rachel Bauder,freshman,Rachel369@college.edu,Spanish,14,Psychology,14,Chen,Mandarin,Chen41@college.edu
+370,Saleema al-Maroun,junior,Saleema370@college.edu,English,14,Psychology,14,Suarez,Statistics,Suarez40@college.edu
+371,Nikko Franco,sophomore,Nikko371@college.edu,Chemistry,16,Psychology,14,el-Hameed,Neuroscience,el-Hameed34@college.edu
+372,Brittany Hamilton,junior,Brittany372@college.edu,Data Science,16,Economics,16,el-Mansour,Geology,el-Mansour38@college.edu
+373,Deisha Kuebler,freshman,Deisha373@college.edu,Economics,16,History,14,Martinez,Psychology,Martinez10@college.edu
+374,Tachayanne Smolarek,senior,Tachayanne374@college.edu,Chemistry,16,Studio Art,13,Varghese,Journalism,Varghese17@college.edu
+375,Monolito Kandolo,freshman,Monolito375@college.edu,Physics,16,NULL,NULL,Strand,French,Strand9@college.edu
+376,Tiana Townsend,freshman,Tiana376@college.edu,Economics,16,Statistics,13,Cardoza,Computer Science,Cardoza49@college.edu
+377,Cheyanne Schroeder,senior,Cheyanne377@college.edu,Data Science,16,NULL,NULL,Mccann,Environmental Science,Mccann23@college.edu
+378,Shameema el-Azizi,senior,Shameema378@college.edu,Environmental Science,14,Art History,15,Griego,Data Science,Griego20@college.edu
+379,Ann Daugherty,sophomore,Ann379@college.edu,Political Science,13,Neuroscience,16,Sun,Mandarin,Sun25@college.edu
+380,Ashur Larkin,freshman,Ashur380@college.edu,Mathematics,16,Astronomy,15,Santillan,Journalism,Santillan11@college.edu
+381,Markesha Seals-Williams,senior,Markesha381@college.edu,Studio Art,13,NULL,NULL,Sun,Mandarin,Sun25@college.edu
+382,Rebecca Dieyleh,freshman,Rebecca382@college.edu,Journalism,13,Creative Writing,15,Donaldson,Philosophy,Donaldson7@college.edu
+383,Waleed al-El-Sayed,freshman,Waleed383@college.edu,Political Science,13,History,14,Moline,Psychology,Moline39@college.edu
+384,Danzig Herrera,freshman,Danzig384@college.edu,Biology,16,Sociology,16,Milburn,Computer Science,Milburn48@college.edu
+385,Marcus Agyei,junior,Marcus385@college.edu,Data Science,16,NULL,NULL,Martinez,Psychology,Martinez10@college.edu
+386,Cristina Angel Garcia,freshman,Cristina386@college.edu,English,14,Studio Art,13,Ballard,Mathematics,Ballard45@college.edu
+387,Michael Quitoriano,senior,Michael387@college.edu,Physics,16,Biology,16,Lor,Biology,Lor43@college.edu
+388,Nabeel al-Mohammed,junior,Nabeel388@college.edu,Art History,15,Physics,16,Barnhill,Astronomy,Barnhill36@college.edu
+389,Samantha Salazar,junior,Samantha389@college.edu,Geology,14,NULL,NULL,el-Mansour,Geology,el-Mansour38@college.edu
+390,Cedric Ayers,junior,Cedric390@college.edu,Geology,14,Political Science,13,el-Hameed,Neuroscience,el-Hameed34@college.edu
+391,Nautica Williams,freshman,Nautica391@college.edu,Psychology,14,NULL,NULL,Lambright,Data Science,Lambright27@college.edu
+392,Randi Gray,sophomore,Randi392@college.edu,History,14,English,14,Chen,Mandarin,Chen41@college.edu
+393,Ameena el-Ahmadi,sophomore,Ameena393@college.edu,Mandarin,16,Philosophy,14,Beck-Alper,Economics,Beck-Alper37@college.edu
+394,Neeshaan el-Farran,senior,Neeshaan394@college.edu,Computer Science,13,NULL,NULL,Sommer,Statistics,Sommer8@college.edu
+395,Jun Raziel Otgonbayar,freshman,JunRaziel395@college.edu,Spanish,14,Mandarin,16,Sommer,Statistics,Sommer8@college.edu
+396,Ricky Jiron,junior,Ricky396@college.edu,Computer Science,13,NULL,NULL,Medina,Geology,Medina19@college.edu
+397,Nicholas Sayeed,senior,Nicholas397@college.edu,Political Science,13,Mandarin,16,el-Mansour,Geology,el-Mansour38@college.edu
+398,Heidi Kearns,senior,Heidi398@college.edu,Geology,14,Environmental Science,14,Quarles,Data Science,Quarles46@college.edu
+399,Drew Burdette,sophomore,Drew399@college.edu,Economics,16,Creative Writing,15,Suarez,Statistics,Suarez40@college.edu
+400,Kristina Mendoza,junior,Kristina400@college.edu,Spanish,14,Journalism,13,Rael,Neuroscience,Rael35@college.edu
+401,Keiya Tuck,sophomore,Keiya401@college.edu,Studio Art,13,NULL,NULL,Donaldson,Philosophy,Donaldson7@college.edu
+402,Kiana O Reilly,senior,Kiana402@college.edu,History,14,Creative Writing,15,el-Mansour,Geology,el-Mansour38@college.edu
+403,Ashley Bol,junior,Ashley403@college.edu,History,14,NULL,NULL,Rapp,Biology,Rapp4@college.edu
+404,Ricky Lymburn,junior,Ricky404@college.edu,Statistics,13,NULL,NULL,Giles,Statistics,Giles12@college.edu
+405,Hasan el-Hashem,junior,Hasan405@college.edu,Philosophy,14,NULL,NULL,Sommer,History,Sommer3@college.edu
+406,Joshua Elliston,senior,Joshua406@college.edu,French,14,Environmental Science,14,Brunson,Chemistry,Brunson47@college.edu
+407,Ashlyn Kuck,junior,Ashlyn407@college.edu,Journalism,13,Psychology,14,Beck-Alper,Economics,Beck-Alper37@college.edu
+408,Usman Treitman,sophomore,Usman408@college.edu,Neuroscience,16,NULL,NULL,Melendez,Spanish,Melendez16@college.edu
+409,Bradley Smith,sophomore,Bradley409@college.edu,Economics,16,NULL,NULL,el-Miah,Political Science,el-Miah15@college.edu
+410,Edgar Valdez Oliva,junior,Edgar410@college.edu,Astronomy,15,Political Science,13,Dibello,Statistics,Dibello5@college.edu
+411,Joshua Brown,senior,Joshua411@college.edu,Physics,16,Mathematics,16,Rael,Neuroscience,Rael35@college.edu
+412,Emily Li,sophomore,Emily412@college.edu,Neuroscience,16,NULL,NULL,Hayes,Environmental Science,Hayes44@college.edu
+413,Jareer al-Zaidi,sophomore,Jareer413@college.edu,Physics,16,Computer Science,13,Suarez,Statistics,Suarez40@college.edu
+414,Xavier Darlington-Rivera,junior,Xavier414@college.edu,Economics,16,NULL,NULL,Chen,Mandarin,Chen41@college.edu
+415,Heather Kuehne,senior,Heather415@college.edu,Journalism,13,Sociology,16,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+416,Chamaray Jordan,senior,Chamaray416@college.edu,Political Science,13,NULL,NULL,Beck-Alper,Economics,Beck-Alper37@college.edu
+417,Ty Lott,sophomore,Ty417@college.edu,Psychology,14,Sociology,16,Cardoza,Computer Science,Cardoza49@college.edu
+418,Annie Hall,junior,Annie418@college.edu,Political Science,13,Sociology,16,Roberts,Philosophy,Roberts24@college.edu
+419,Brianna Pope,sophomore,Brianna419@college.edu,Psychology,14,Political Science,13,Griego,Data Science,Griego20@college.edu
+420,Christian Chavez,senior,Christian420@college.edu,Computer Science,13,Computer Science,13,Lor,Biology,Lor43@college.edu
+421,Alex Nateras,freshman,Alex421@college.edu,English,14,Studio Art,13,Dibello,Statistics,Dibello5@college.edu
+422,Geoffrey Jones,freshman,Geoffrey422@college.edu,Biology,16,Creative Writing,15,Mccann,Environmental Science,Mccann23@college.edu
+423,Derek Montoya,freshman,Derek423@college.edu,Neuroscience,16,NULL,NULL,Varghese,Journalism,Varghese17@college.edu
+424,Braden Muas,junior,Braden424@college.edu,Neuroscience,16,Creative Writing,15,Dibello,Statistics,Dibello5@college.edu
+425,Logan Estrella,senior,Logan425@college.edu,Mandarin,16,Spanish,14,Bedu Annan,Psychology,BeduAnnan26@college.edu
+426,Jalen Ary,freshman,Jalen426@college.edu,Mandarin,16,NULL,NULL,el-Hameed,Neuroscience,el-Hameed34@college.edu
+427,Christopher Pinchbeck,junior,Christopher427@college.edu,Philosophy,14,NULL,NULL,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+428,Nawf al-Nasir,junior,Nawf428@college.edu,Mathematics,16,NULL,NULL,Rapp,Biology,Rapp4@college.edu
+429,Melenaite Datta,junior,Melenaite429@college.edu,Computer Science,13,Political Science,13,Creighton Howard,History,CreightonHoward31@college.edu
+430,Jesse Mills,sophomore,Jesse430@college.edu,Biology,16,NULL,NULL,Lambright,Data Science,Lambright27@college.edu
+431,Delrey Bogle,sophomore,Delrey431@college.edu,Journalism,13,Art History,15,Lobato,Physics,Lobato33@college.edu
+432,Rachel Jones Jr,senior,Rachel432@college.edu,Journalism,13,Astronomy,15,Bedu Annan,Psychology,BeduAnnan26@college.edu
+433,Addison Colter Eustice,junior,AddisonColter433@college.edu,History,14,Creative Writing,15,Quarles,Data Science,Quarles46@college.edu
+434,Jenelle Price,freshman,Jenelle434@college.edu,Spanish,14,NULL,NULL,Milburn,Computer Science,Milburn48@college.edu
+435,Carla Castillo,sophomore,Carla435@college.edu,Philosophy,14,NULL,NULL,Donaldson,Philosophy,Donaldson7@college.edu
+436,Dylan Ritzdorf,freshman,Dylan436@college.edu,Biology,16,Political Science,13,Contreras,Creative Writing,Contreras13@college.edu
+437,Shyenne Merg,senior,Shyenne437@college.edu,Neuroscience,16,NULL,NULL,Cardoza,Computer Science,Cardoza49@college.edu
+438,Michael Rodriguez-Garcia,senior,Michael438@college.edu,Philosophy,14,NULL,NULL,Mccann,Environmental Science,Mccann23@college.edu
+439,Cuauhtemoc Lovelace,sophomore,Cuauhtemoc439@college.edu,French,14,NULL,NULL,Solarin,Computer Science,Solarin32@college.edu
+440,Lyah Lindsey,junior,Lyah440@college.edu,Data Science,16,Art History,15,Cardoza,Computer Science,Cardoza49@college.edu
+441,Shaakira al-Masih,junior,Shaakira441@college.edu,Philosophy,14,Astronomy,15,Cardoza,Computer Science,Cardoza49@college.edu
+442,Fantasia Cabanas,junior,Fantasia442@college.edu,Environmental Science,14,Psychology,14,Moline,Psychology,Moline39@college.edu
+443,Shakeela el-Sultana,senior,Shakeela443@college.edu,History,14,NULL,NULL,Moline,Psychology,Moline39@college.edu
+444,Yaasmeen el-Chahine,senior,Yaasmeen444@college.edu,English,14,NULL,NULL,Chen,Mandarin,Chen41@college.edu
+445,Katelyn Tovar-Jimenez,freshman,Katelyn445@college.edu,Chemistry,16,NULL,NULL,Brunson,Chemistry,Brunson47@college.edu
+446,Ismael James,junior,Ismael446@college.edu,Data Science,16,NULL,NULL,Cardoza,Computer Science,Cardoza49@college.edu
+447,Justin Holtschneider,junior,Justin447@college.edu,Economics,16,French,14,Suarez,Statistics,Suarez40@college.edu
+448,Macy Robinson,sophomore,Macy448@college.edu,English,14,Philosophy,14,Creighton Howard,History,CreightonHoward31@college.edu
+449,Marisela Chavarria Marquez,senior,Marisela449@college.edu,Economics,16,NULL,NULL,el-Miah,Political Science,el-Miah15@college.edu
+450,Thaamira el-Idris,junior,Thaamira450@college.edu,Mandarin,16,Psychology,14,el-Miah,Political Science,el-Miah15@college.edu
+451,Kimberly Wu,sophomore,Kimberly451@college.edu,Biology,16,Astronomy,15,el-Hameed,Neuroscience,el-Hameed34@college.edu
+452,Devante Smith,junior,Devante452@college.edu,Environmental Science,14,NULL,NULL,el-Miah,Political Science,el-Miah15@college.edu
+453,Matthew Shook,sophomore,Matthew453@college.edu,Economics,16,NULL,NULL,Von Holten,History,VonHolten30@college.edu
+454,Jack Dewey,senior,Jack454@college.edu,French,14,NULL,NULL,Beck-Alper,Economics,Beck-Alper37@college.edu
+455,Jennifer Thicksten,sophomore,Jennifer455@college.edu,Geology,14,Political Science,13,Contreras,Creative Writing,Contreras13@college.edu
+456,Devon Diaz,freshman,Devon456@college.edu,Data Science,16,NULL,NULL,Baca,Environmental Science,Baca50@college.edu
+457,Decarlo Quintana,sophomore,Decarlo457@college.edu,Studio Art,13,Political Science,13,Adams,Economics,Adams21@college.edu
+458,Bridgett Rogers,junior,Bridgett458@college.edu,Neuroscience,16,Sociology,16,Barnhill,Astronomy,Barnhill36@college.edu
+459,Caitlyn Kuebler,freshman,Caitlyn459@college.edu,Mathematics,16,NULL,NULL,Barnhill,Astronomy,Barnhill36@college.edu
+460,Zoey Miller,junior,Zoey460@college.edu,Philosophy,14,Studio Art,13,Fischer,Art History,Fischer28@college.edu
+461,Arienne Wendlandt,sophomore,Arienne461@college.edu,Computer Science,13,Mathematics,16,Martinez,Psychology,Martinez10@college.edu
+462,Y Macmillan,sophomore,Y462@college.edu,Economics,16,NULL,NULL,Hayes,Environmental Science,Hayes44@college.edu
+463,Nicole Christensen III,freshman,Nicole463@college.edu,Sociology,16,NULL,NULL,Ballard,Mathematics,Ballard45@college.edu
+464,Keiko Fahrenbrink,sophomore,Keiko464@college.edu,English,14,NULL,NULL,Bortz,Mathematics,Bortz6@college.edu
+465,Fidda el-Abdella,freshman,Fidda465@college.edu,Chemistry,16,NULL,NULL,Melendez,Spanish,Melendez16@college.edu
+466,Precious Geberkidane,senior,Precious466@college.edu,Political Science,13,Journalism,13,Von Holten,History,VonHolten30@college.edu
+467,Gerom Angelo Kumar,senior,GeromAngelo467@college.edu,Biology,16,Journalism,13,Solarin,Computer Science,Solarin32@college.edu
+468,Michael Thompkins,freshman,Michael468@college.edu,Journalism,13,Neuroscience,16,Cardoza,Computer Science,Cardoza49@college.edu
+469,Amanda Aguilar-Sanchez,senior,Amanda469@college.edu,Neuroscience,16,Mathematics,16,Lee,Neuroscience,Lee2@college.edu
+470,Pedro Elzy,freshman,Pedro470@college.edu,Physics,16,NULL,NULL,Solarin,Computer Science,Solarin32@college.edu
+471,Ismaeel al-Yacoub,sophomore,Ismaeel471@college.edu,English,14,Studio Art,13,Martinez,Neuroscience,Martinez22@college.edu
+472,Ikram al-Tariq,sophomore,Ikram472@college.edu,Biology,16,NULL,NULL,Lor,Biology,Lor43@college.edu
+473,Veronica Mckean,freshman,Veronica473@college.edu,Computer Science,13,French,14,Brunson,Chemistry,Brunson47@college.edu
+474,Donavon Posey-Hughes,sophomore,Donavon474@college.edu,Economics,16,NULL,NULL,Chen,Mandarin,Chen41@college.edu
+475,Sara Sullivan,freshman,Sara475@college.edu,Data Science,16,NULL,NULL,Dibello,Statistics,Dibello5@college.edu
+476,Bailie Mengist,senior,Bailie476@college.edu,Mandarin,16,Environmental Science,14,Medina,Geology,Medina19@college.edu
+477,Olivia Lor,junior,Olivia477@college.edu,Creative Writing,15,English,14,Ballard,Mathematics,Ballard45@college.edu
+478,Ryan Dassler,senior,Ryan478@college.edu,English,14,NULL,NULL,Ballard,Mathematics,Ballard45@college.edu
+479,Eric Jacobsen,junior,Eric479@college.edu,Spanish,14,Chemistry,16,Griego,Data Science,Griego20@college.edu
+480,Nawf al-Pirani,junior,Nawf480@college.edu,Sociology,16,NULL,NULL,Griego,Data Science,Griego20@college.edu
+481,Harutyun Ayala,freshman,Harutyun481@college.edu,Geology,14,NULL,NULL,Creighton Howard,History,CreightonHoward31@college.edu
+482,Kawkab el-Salloum,senior,Kawkab482@college.edu,Psychology,14,Statistics,13,Santillan,Journalism,Santillan11@college.edu
+483,Jordan Eichenlaub,senior,Jordan483@college.edu,History,14,NULL,NULL,Lee,Neuroscience,Lee2@college.edu
+484,Luqmaan al-Atallah,freshman,Luqmaan484@college.edu,Data Science,16,NULL,NULL,Cardoza,Computer Science,Cardoza49@college.edu
+485,Te Uwanh Mcneal,sophomore,TeUwanh485@college.edu,Biology,16,NULL,NULL,Lambright,Data Science,Lambright27@college.edu
+486,Jumail al-Mian,sophomore,Jumail486@college.edu,Physics,16,NULL,NULL,Rael,Neuroscience,Rael35@college.edu
+487,Alexander Denton,junior,Alexander487@college.edu,Studio Art,13,Geology,14,el-Miah,Political Science,el-Miah15@college.edu
+488,Lanesha Hill,senior,Lanesha488@college.edu,Studio Art,13,Environmental Science,14,Medina,Geology,Medina19@college.edu
+489,Abdul Ghafoor al-Rahimi,senior,AbdulGhafoor489@college.edu,English,14,Philosophy,14,Moline,Psychology,Moline39@college.edu
+490,Maisara el-Saidi,junior,Maisara490@college.edu,French,14,Data Science,16,Lee,Neuroscience,Lee2@college.edu
+491,Juan Miranda,freshman,Juan491@college.edu,Mandarin,16,Computer Science,13,el-Miah,Political Science,el-Miah15@college.edu
+492,Maximillian Clair,junior,Maximillian492@college.edu,Computer Science,13,Astronomy,15,Brunson,Chemistry,Brunson47@college.edu
+493,Jane Truong,sophomore,Jane493@college.edu,Creative Writing,15,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+494,Ruoqi Dang,sophomore,Ruoqi494@college.edu,French,14,Astronomy,15,Sommer,History,Sommer3@college.edu
+495,Lili Ahn,sophomore,Lili495@college.edu,English,14,NULL,NULL,Hayes,Environmental Science,Hayes44@college.edu
+496,Devon Manning,junior,Devon496@college.edu,Neuroscience,16,NULL,NULL,Donaldson,Philosophy,Donaldson7@college.edu
+497,Ashlyn Zajac,senior,Ashlyn497@college.edu,Mathematics,16,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+498,Lasandra Taylor,freshman,Lasandra498@college.edu,Creative Writing,15,History,14,Barnhill,Astronomy,Barnhill36@college.edu
+499,Somer Heard,senior,Somer499@college.edu,Neuroscience,16,NULL,NULL,Lor,Biology,Lor43@college.edu
+500,Qamraaa el-Sheikh,sophomore,Qamraaa500@college.edu,Art History,15,Mathematics,16,Bedu Annan,Psychology,BeduAnnan26@college.edu
+501,Milena Smith,junior,Milena501@college.edu,Philosophy,14,Mandarin,16,Lobato,Physics,Lobato33@college.edu
+502,Daniel Amen,sophomore,Daniel502@college.edu,Creative Writing,15,NULL,NULL,Strand,French,Strand9@college.edu
+503,Ashley Colabello,junior,Ashley503@college.edu,Neuroscience,16,Data Science,16,el-Mansour,Geology,el-Mansour38@college.edu
+504,Emily Luu,senior,Emily504@college.edu,Mandarin,16,Psychology,14,Sun,Mandarin,Sun25@college.edu
+505,Malik Alexander,senior,Malik505@college.edu,Biology,16,Spanish,14,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+506,Tammaam al-Khan,sophomore,Tammaam506@college.edu,Journalism,13,Computer Science,13,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+507,Najeem al-Radi,senior,Najeem507@college.edu,Art History,15,Physics,16,Roberts,Philosophy,Roberts24@college.edu
+508,Jonathan Neal,junior,Jonathan508@college.edu,Astronomy,15,NULL,NULL,Milburn,Computer Science,Milburn48@college.edu
+509,Valentin Mendez Villa,junior,Valentin509@college.edu,Data Science,16,NULL,NULL,Melendez,Spanish,Melendez16@college.edu
+510,Kaela Tongbua,freshman,Kaela510@college.edu,Psychology,14,Neuroscience,16,Contreras,Creative Writing,Contreras13@college.edu
+511,Dlisa Hunt,junior,Dlisa511@college.edu,Geology,14,Studio Art,13,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+512,Marjaana el-Sabir,junior,Marjaana512@college.edu,French,14,Neuroscience,16,Melendez,Spanish,Melendez16@college.edu
+513,Karla Saldana,sophomore,Karla513@college.edu,Sociology,16,NULL,NULL,Brunson,Chemistry,Brunson47@college.edu
+514,Keith Barnstien,junior,Keith514@college.edu,English,14,Astronomy,15,Solarin,Computer Science,Solarin32@college.edu
+515,Collin Falagrady,sophomore,Collin515@college.edu,Neuroscience,16,Studio Art,13,el-Hameed,Neuroscience,el-Hameed34@college.edu
+516,Deontey Lewis,junior,Deontey516@college.edu,Psychology,14,NULL,NULL,Donaldson,Philosophy,Donaldson7@college.edu
+517,Jordan Riley,junior,Jordan517@college.edu,Philosophy,14,NULL,NULL,el-Miah,Political Science,el-Miah15@college.edu
+518,Fuaada al-Assaf,freshman,Fuaada518@college.edu,History,14,Data Science,16,Contreras,Creative Writing,Contreras13@college.edu
+519,Abyad el-El-Sayed,junior,Abyad519@college.edu,Philosophy,14,Physics,16,al-Sesay,Geology,al-Sesay42@college.edu
+520,Imtinaan el-Farah,senior,Imtinaan520@college.edu,Physics,16,Geology,14,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+521,Savian Luong,junior,Savian521@college.edu,Data Science,16,NULL,NULL,Santillan,Journalism,Santillan11@college.edu
+522,Cassandra Rowe,junior,Cassandra522@college.edu,History,14,NULL,NULL,Sommer,Statistics,Sommer8@college.edu
+523,Anbara el-Rafiq,freshman,Anbara523@college.edu,Geology,14,NULL,NULL,Baca,Environmental Science,Baca50@college.edu
+524,Jacob Elliott,freshman,Jacob524@college.edu,Political Science,13,Biology,16,Lee,Neuroscience,Lee2@college.edu
+525,Todd Rabie,junior,Todd525@college.edu,English,14,NULL,NULL,Creighton Howard,History,CreightonHoward31@college.edu
+526,Joshua Berges,sophomore,Joshua526@college.edu,Data Science,16,Political Science,13,Donaldson,Philosophy,Donaldson7@college.edu
+527,Selena Smith,senior,Selena527@college.edu,Computer Science,13,Mandarin,16,Hayes,Environmental Science,Hayes44@college.edu
+528,Amanda Martinez,freshman,Amanda528@college.edu,History,14,Environmental Science,14,Suarez,Statistics,Suarez40@college.edu
+529,Ashley Altamirano,sophomore,Ashley529@college.edu,Sociology,16,French,14,Medina,Geology,Medina19@college.edu
+530,Colin Barrett,junior,Colin530@college.edu,Philosophy,14,NULL,NULL,Quarles,Data Science,Quarles46@college.edu
+531,Kaitlyn Fleharty,junior,Kaitlyn531@college.edu,Studio Art,13,NULL,NULL,Lobato,Physics,Lobato33@college.edu
+532,John Mccollum,freshman,John532@college.edu,Studio Art,13,NULL,NULL,Moline,Psychology,Moline39@college.edu
+533,Hunter Kim,senior,Hunter533@college.edu,Philosophy,14,NULL,NULL,Rapp,Biology,Rapp4@college.edu
+534,Naathan Ghosh,freshman,Naathan534@college.edu,Mathematics,16,Environmental Science,14,Martinez,Neuroscience,Martinez22@college.edu
+535,Kye Yousaf,senior,Kye535@college.edu,Journalism,13,Astronomy,15,Griego,Data Science,Griego20@college.edu
+536,Keili Farmer,junior,Keili536@college.edu,Political Science,13,English,14,Bedu Annan,Psychology,BeduAnnan26@college.edu
+537,Caleb Del Rosario,sophomore,Caleb537@college.edu,Computer Science,13,Statistics,13,Mccann,Environmental Science,Mccann23@college.edu
+538,Andre Pacheco,senior,Andre538@college.edu,Biology,16,French,14,Bortz,Mathematics,Bortz6@college.edu
+539,Jordan Lomeli Loera,freshman,Jordan539@college.edu,Mandarin,16,Studio Art,13,Melendez,Spanish,Melendez16@college.edu
+540,Kylia Abreu,senior,Kylia540@college.edu,Journalism,13,NULL,NULL,Sommer,Statistics,Sommer8@college.edu
+541,Marquis Green,freshman,Marquis541@college.edu,Psychology,14,NULL,NULL,Sommer,History,Sommer3@college.edu
+542,Joshua Carcamo,sophomore,Joshua542@college.edu,Computer Science,13,History,14,Brunson,Chemistry,Brunson47@college.edu
+543,Tylor Ray,sophomore,Tylor543@college.edu,Sociology,16,Mandarin,16,Von Holten,History,VonHolten30@college.edu
+544,Meredith Youngwirth,junior,Meredith544@college.edu,Computer Science,13,Data Science,16,Contreras,Creative Writing,Contreras13@college.edu
+545,Aadil al-Waheed,sophomore,Aadil545@college.edu,Art History,15,NULL,NULL,Von Holten,History,VonHolten30@college.edu
+546,Masood el-Siddiqi,senior,Masood546@college.edu,Neuroscience,16,NULL,NULL,Cantor,Psychology,Cantor18@college.edu
+547,Devin Vidrio Virula,freshman,Devin547@college.edu,Computer Science,13,Journalism,13,el-Mansour,Geology,el-Mansour38@college.edu
+548,Alexander Park,freshman,Alexander548@college.edu,Creative Writing,15,NULL,NULL,Lor,Biology,Lor43@college.edu
+549,Corin Brown,senior,Corin549@college.edu,Physics,16,NULL,NULL,Adams,Economics,Adams21@college.edu
+550,Nawwaara el-Nour,freshman,Nawwaara550@college.edu,Art History,15,Mathematics,16,Suarez,Statistics,Suarez40@college.edu
+551,Furqaan al-Mostafa,freshman,Furqaan551@college.edu,Computer Science,13,NULL,NULL,Solarin,Computer Science,Solarin32@college.edu
+552,Brandon Miller,senior,Brandon552@college.edu,Computer Science,13,NULL,NULL,Lobato,Physics,Lobato33@college.edu
+553,X'Zavion Choyce,freshman,X'Zavion553@college.edu,Astronomy,15,NULL,NULL,Baca,Environmental Science,Baca50@college.edu
+554,Edgard Escobedo Botello,junior,Edgard554@college.edu,Computer Science,13,Mandarin,16,Barnhill,Astronomy,Barnhill36@college.edu
+555,Zufar al-Hammad,junior,Zufar555@college.edu,Spanish,14,Journalism,13,Martinez,Psychology,Martinez10@college.edu
+556,Jesus Rios,sophomore,Jesus556@college.edu,Journalism,13,NULL,NULL,Donaldson,Philosophy,Donaldson7@college.edu
+557,Mahfoodha al-Rahimi,junior,Mahfoodha557@college.edu,Creative Writing,15,NULL,NULL,Sommer,Statistics,Sommer8@college.edu
+558,Sasha Anders,sophomore,Sasha558@college.edu,English,14,NULL,NULL,Cardoza,Computer Science,Cardoza49@college.edu
+559,Ariana Ross,freshman,Ariana559@college.edu,Computer Science,13,NULL,NULL,Beck-Alper,Economics,Beck-Alper37@college.edu
+560,Naseeba el-Masri,junior,Naseeba560@college.edu,Statistics,13,Psychology,14,Brunson,Chemistry,Brunson47@college.edu
+561,Shaquille Murray,junior,Shaquille561@college.edu,History,14,NULL,NULL,Rael,Neuroscience,Rael35@college.edu
+562,Lathan Baker,freshman,Lathan562@college.edu,History,14,Data Science,16,Cantor,Psychology,Cantor18@college.edu
+563,Jason House,freshman,Jason563@college.edu,Chemistry,16,Environmental Science,14,Lambright,Data Science,Lambright27@college.edu
+564,Mas'ooda el-Jama,senior,Mas'ooda564@college.edu,Mathematics,16,Data Science,16,Sun,Mandarin,Sun25@college.edu
+565,Rodney Phillip,senior,Rodney565@college.edu,Astronomy,15,NULL,NULL,Ballard,Mathematics,Ballard45@college.edu
+566,Keanu Ocanas,junior,Keanu566@college.edu,Mandarin,16,Spanish,14,Sun,Mandarin,Sun25@college.edu
+567,Karlena Ross,sophomore,Karlena567@college.edu,Physics,16,Geology,14,Barnhill,Astronomy,Barnhill36@college.edu
+568,Heather Lee,junior,Heather568@college.edu,History,14,NULL,NULL,Milburn,Computer Science,Milburn48@college.edu
+569,Christopher Lucas,freshman,Christopher569@college.edu,Geology,14,French,14,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+570,Anthony Rohrkaste,senior,Anthony570@college.edu,Psychology,14,Philosophy,14,Solarin,Computer Science,Solarin32@college.edu
+571,Isabel Vasquez-Moreno,junior,Isabel571@college.edu,Computer Science,13,Spanish,14,el-Mansour,Geology,el-Mansour38@college.edu
+572,Talia Thesz,sophomore,Talia572@college.edu,Statistics,13,NULL,NULL,Fischer,Art History,Fischer28@college.edu
+573,MuAawiya al-Nazar,senior,MuAawiya573@college.edu,Psychology,14,French,14,Santillan,Journalism,Santillan11@college.edu
+574,Hope Colonese,freshman,Hope574@college.edu,Creative Writing,15,Philosophy,14,Contreras,Creative Writing,Contreras13@college.edu
+575,Ralph Patrick Jhaveri,senior,RalphPatrick575@college.edu,Astronomy,15,Chemistry,16,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+576,Mya Oswalt-Naasz,sophomore,Mya576@college.edu,Astronomy,15,NULL,NULL,Bortz,Mathematics,Bortz6@college.edu
+577,Timothy Xiong,junior,Timothy577@college.edu,Biology,16,Spanish,14,Donaldson,Philosophy,Donaldson7@college.edu
+578,Angel Morales,senior,Angel578@college.edu,French,14,NULL,NULL,Strand,French,Strand9@college.edu
+579,Jessey Tice,junior,Jessey579@college.edu,Sociology,16,Statistics,13,Medina,Geology,Medina19@college.edu
+580,Estephany Martinez Romero,junior,Estephany580@college.edu,Data Science,16,Creative Writing,15,Hayes,Environmental Science,Hayes44@college.edu
+581,Nykeba Smith,senior,Nykeba581@college.edu,English,14,Mandarin,16,el-Mansour,Geology,el-Mansour38@college.edu
+582,Brandon Lewis,senior,Brandon582@college.edu,English,14,NULL,NULL,Roberts,Philosophy,Roberts24@college.edu
+583,Waseem el-Hakeem,sophomore,Waseem583@college.edu,Physics,16,Studio Art,13,Hall Pricket,Economics,HallPricket1@college.edu
+584,Kawkab el-Sawaya,junior,Kawkab584@college.edu,Political Science,13,Political Science,13,Lobato,Physics,Lobato33@college.edu
+585,Joshua Villacarra,freshman,Joshua585@college.edu,Philosophy,14,Computer Science,13,Strand,French,Strand9@college.edu
+586,Decarlo Villanueva,senior,Decarlo586@college.edu,Computer Science,13,NULL,NULL,Beck-Alper,Economics,Beck-Alper37@college.edu
+587,Christopher Chavez,senior,Christopher587@college.edu,Environmental Science,14,Environmental Science,14,Lor,Biology,Lor43@college.edu
+588,Jared Venuti,freshman,Jared588@college.edu,Political Science,13,Economics,16,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+589,Danny Poon,sophomore,Danny589@college.edu,History,14,NULL,NULL,Ballard,Mathematics,Ballard45@college.edu
+590,James Wedel,freshman,James590@college.edu,Biology,16,NULL,NULL,Lor,Biology,Lor43@college.edu
+591,Eddie Moncada-Ruiz,junior,Eddie591@college.edu,Psychology,14,Spanish,14,Strand,French,Strand9@college.edu
+592,Darrick Cloud,junior,Darrick592@college.edu,French,14,Neuroscience,16,Moline,Psychology,Moline39@college.edu
+593,Alexander Ten,senior,Alexander593@college.edu,Computer Science,13,Physics,16,Sun,Mandarin,Sun25@college.edu
+594,Charles Johnson,sophomore,Charles594@college.edu,Economics,16,Art History,15,Lambright,Data Science,Lambright27@college.edu
+595,Savian Liufau,senior,Savian595@college.edu,Sociology,16,NULL,NULL,Medina,Geology,Medina19@college.edu
+596,Mikayla Garza,senior,Mikayla596@college.edu,Biology,16,NULL,NULL,Adams,Economics,Adams21@college.edu
+597,Adam Luna Zamora,sophomore,Adam597@college.edu,History,14,Psychology,14,Von Holten,History,VonHolten30@college.edu
+598,Angelo Macias,sophomore,Angelo598@college.edu,Art History,15,NULL,NULL,Quarles,Data Science,Quarles46@college.edu
+599,Isaac Mendoza,senior,Isaac599@college.edu,Mandarin,16,NULL,NULL,Brunson,Chemistry,Brunson47@college.edu
+600,Kyshawn Maestas,junior,Kyshawn600@college.edu,Chemistry,16,NULL,NULL,Hayes,Environmental Science,Hayes44@college.edu
+601,Anthony Doublin,junior,Anthony601@college.edu,Neuroscience,16,NULL,NULL,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+602,Harry Conkleton,senior,Harry602@college.edu,Psychology,14,Spanish,14,el-Miah,Political Science,el-Miah15@college.edu
+603,Reginald Robinson,freshman,Reginald603@college.edu,Astronomy,15,Spanish,14,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+604,Dominick Garcia,sophomore,Dominick604@college.edu,Environmental Science,14,Political Science,13,Giles,Statistics,Giles12@college.edu
+605,Eric Armendariz,junior,Eric605@college.edu,Astronomy,15,Neuroscience,16,Sommer,History,Sommer3@college.edu
+606,Dongwoo Hoover,junior,Dongwoo606@college.edu,French,14,NULL,NULL,Strand,French,Strand9@college.edu
+607,Izza al-Demian,junior,Izza607@college.edu,Computer Science,13,Chemistry,16,Moline,Psychology,Moline39@college.edu
+608,John Yeager,freshman,John608@college.edu,Statistics,13,NULL,NULL,el-Hameed,Neuroscience,el-Hameed34@college.edu
+609,Denisse Gracia,sophomore,Denisse609@college.edu,Journalism,13,Geology,14,Lee,Neuroscience,Lee2@college.edu
+610,Anna Flinn,freshman,Anna610@college.edu,Psychology,14,English,14,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+611,Jamaal al-Arif,junior,Jamaal611@college.edu,History,14,Art History,15,Adams,Economics,Adams21@college.edu
+612,Hannah Munoz De Santiago,senior,Hannah612@college.edu,Mathematics,16,NULL,NULL,Brunson,Chemistry,Brunson47@college.edu
+613,Francisco Tobon,junior,Francisco613@college.edu,Economics,16,NULL,NULL,Martinez,Neuroscience,Martinez22@college.edu
+614,Sham'a al-Guler,sophomore,Sham'a614@college.edu,Environmental Science,14,Data Science,16,Varghese,Journalism,Varghese17@college.edu
+615,Minh Faamausili,sophomore,Minh615@college.edu,Journalism,13,Data Science,16,al-Sesay,Geology,al-Sesay42@college.edu
+616,Destiny Laner,sophomore,Destiny616@college.edu,English,14,NULL,NULL,Milburn,Computer Science,Milburn48@college.edu
+617,Simeon Diaz,senior,Simeon617@college.edu,Statistics,13,NULL,NULL,Moline,Psychology,Moline39@college.edu
+618,Elizabeth Kim,sophomore,Elizabeth618@college.edu,Journalism,13,Geology,14,el-Miah,Political Science,el-Miah15@college.edu
+619,Kyra Hood,sophomore,Kyra619@college.edu,English,14,Neuroscience,16,Sun,Mandarin,Sun25@college.edu
+620,Roman Freeland,senior,Roman620@college.edu,Sociology,16,NULL,NULL,Ballard,Mathematics,Ballard45@college.edu
+621,Rochelle Spicely,freshman,Rochelle621@college.edu,Economics,16,Sociology,16,Strand,French,Strand9@college.edu
+622,Unais al-Majid,sophomore,Unais622@college.edu,Computer Science,13,Neuroscience,16,Roberts,Philosophy,Roberts24@college.edu
+623,Ishmael Reeves,senior,Ishmael623@college.edu,Geology,14,Mandarin,16,el-Hameed,Neuroscience,el-Hameed34@college.edu
+624,Samantha Phan,senior,Samantha624@college.edu,Spanish,14,Political Science,13,Sun,Mandarin,Sun25@college.edu
+625,Krystel Lee Ventura,junior,KrystelLee625@college.edu,Mandarin,16,NULL,NULL,Griego,Data Science,Griego20@college.edu
+626,Taaliba el-Mona,sophomore,Taaliba626@college.edu,Mandarin,16,NULL,NULL,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+627,Marcus Mason,sophomore,Marcus627@college.edu,Biology,16,Political Science,13,Medina,Geology,Medina19@college.edu
+628,Korina Sanchez,sophomore,Korina628@college.edu,Political Science,13,NULL,NULL,Lee,Neuroscience,Lee2@college.edu
+629,Claire Freeman,sophomore,Claire629@college.edu,Mandarin,16,Studio Art,13,Sommer,Statistics,Sommer8@college.edu
+630,Aliyah Urteaga,freshman,Aliyah630@college.edu,History,14,NULL,NULL,el-Ashraf,Economics,el-Ashraf14@college.edu
+631,Tisha Robinson,junior,Tisha631@college.edu,Environmental Science,14,NULL,NULL,el-Miah,Political Science,el-Miah15@college.edu
+632,Amelia Alt,sophomore,Amelia632@college.edu,Neuroscience,16,NULL,NULL,Lor,Biology,Lor43@college.edu
+633,Ann Kim,freshman,Ann633@college.edu,History,14,Biology,16,Lobato,Physics,Lobato33@college.edu
+634,Russell Rojas Mendoza,freshman,Russell634@college.edu,Psychology,14,Chemistry,16,Giles,Statistics,Giles12@college.edu
+635,Abdul Ghafoor el-Ahmad,freshman,AbdulGhafoor635@college.edu,Neuroscience,16,Geology,14,Suarez,Statistics,Suarez40@college.edu
+636,Krizma Mabry,freshman,Krizma636@college.edu,Mathematics,16,Journalism,13,Lambright,Data Science,Lambright27@college.edu
+637,Kaylee Erisman,senior,Kaylee637@college.edu,Chemistry,16,NULL,NULL,Baca,Environmental Science,Baca50@college.edu
+638,Tiffany Graham,freshman,Tiffany638@college.edu,Journalism,13,Political Science,13,Varghese,Journalism,Varghese17@college.edu
+639,Delrey Parker,junior,Delrey639@college.edu,Sociology,16,Political Science,13,Hayes,Environmental Science,Hayes44@college.edu
+640,Darby O'Connor,junior,Darby640@college.edu,Philosophy,14,Environmental Science,14,Sommer,Statistics,Sommer8@college.edu
+641,Bryan Felske,sophomore,Bryan641@college.edu,Astronomy,15,NULL,NULL,Martinez,Psychology,Martinez10@college.edu
+642,Hazm al-Saladin,freshman,Hazm642@college.edu,Economics,16,Psychology,14,Sun,Mandarin,Sun25@college.edu
+643,Kentanya Santifer,senior,Kentanya643@college.edu,Studio Art,13,Sociology,16,Lobato,Physics,Lobato33@college.edu
+644,Ivan Ibarra Chavez,junior,Ivan644@college.edu,Neuroscience,16,NULL,NULL,Donaldson,Philosophy,Donaldson7@college.edu
+645,Siddeeqa al-Amen,sophomore,Siddeeqa645@college.edu,Art History,15,Mathematics,16,Dibello,Statistics,Dibello5@college.edu
+646,Sarah Cervantes,freshman,Sarah646@college.edu,Astronomy,15,Mandarin,16,Donaldson,Philosophy,Donaldson7@college.edu
+647,Cheyenne Crowe,freshman,Cheyenne647@college.edu,Geology,14,Environmental Science,14,Medina,Geology,Medina19@college.edu
+648,Kiley Whitson,junior,Kiley648@college.edu,Economics,16,Data Science,16,Lobato,Physics,Lobato33@college.edu
+649,Michael Iron Cloud,freshman,Michael649@college.edu,Data Science,16,Journalism,13,Brunson,Chemistry,Brunson47@college.edu
+650,Najee Pope,freshman,Najee650@college.edu,Mandarin,16,French,14,Lor,Biology,Lor43@college.edu
+651,Shaide Colton,senior,Shaide651@college.edu,Sociology,16,Astronomy,15,Beck-Alper,Economics,Beck-Alper37@college.edu
+652,Paul Ho,senior,Paul652@college.edu,Chemistry,16,Studio Art,13,el-Miah,Political Science,el-Miah15@college.edu
+653,Marissa Maldonado,junior,Marissa653@college.edu,Biology,16,History,14,Rapp,Biology,Rapp4@college.edu
+654,Jason Du,senior,Jason654@college.edu,Philosophy,14,Philosophy,14,Cantor,Psychology,Cantor18@college.edu
+655,Alina Rascon,freshman,Alina655@college.edu,Chemistry,16,Creative Writing,15,Milburn,Computer Science,Milburn48@college.edu
+656,Ghuzaila el-Bilal,sophomore,Ghuzaila656@college.edu,Mathematics,16,English,14,Adams,Economics,Adams21@college.edu
+657,Brandon Henderson,sophomore,Brandon657@college.edu,Creative Writing,15,NULL,NULL,Sommer,Statistics,Sommer8@college.edu
+658,Kimberly Gomen,freshman,Kimberly658@college.edu,Political Science,13,NULL,NULL,Chen,Mandarin,Chen41@college.edu
+659,Derrick Kim,sophomore,Derrick659@college.edu,Studio Art,13,Computer Science,13,Hall Pricket,Economics,HallPricket1@college.edu
+660,Umaima al-Idris,freshman,Umaima660@college.edu,Art History,15,NULL,NULL,el-Mansour,Geology,el-Mansour38@college.edu
+661,Raaida el-Musa,freshman,Raaida661@college.edu,Environmental Science,14,Data Science,16,Hayes,Environmental Science,Hayes44@college.edu
+662,Roger Gallegos,freshman,Roger662@college.edu,Spanish,14,NULL,NULL,Hayes,Environmental Science,Hayes44@college.edu
+663,Vanessa Mendez,sophomore,Vanessa663@college.edu,History,14,NULL,NULL,Donaldson,Philosophy,Donaldson7@college.edu
+664,Keiandra Herrera,junior,Keiandra664@college.edu,Astronomy,15,Political Science,13,Brunson,Chemistry,Brunson47@college.edu
+665,Naseeba al-Riaz,senior,Naseeba665@college.edu,Physics,16,NULL,NULL,Giles,Statistics,Giles12@college.edu
+666,Samuel Begaye,senior,Samuel666@college.edu,Geology,14,Mandarin,16,al-Sesay,Geology,al-Sesay42@college.edu
+667,Felicia Keith,sophomore,Felicia667@college.edu,Neuroscience,16,Biology,16,Adams,Economics,Adams21@college.edu
+668,Kevin Rogers,junior,Kevin668@college.edu,Biology,16,NULL,NULL,Quarles,Data Science,Quarles46@college.edu
+669,Lyly Lee,sophomore,Lyly669@college.edu,Philosophy,14,NULL,NULL,Hayes,Environmental Science,Hayes44@college.edu
+670,Krystal Pimentel,sophomore,Krystal670@college.edu,Biology,16,NULL,NULL,Creighton Howard,History,CreightonHoward31@college.edu
+671,Don Choi,freshman,Don671@college.edu,Creative Writing,15,NULL,NULL,Sommer,Statistics,Sommer8@college.edu
+672,Shaheed al-Sylla,senior,Shaheed672@college.edu,Environmental Science,14,Neuroscience,16,Beck-Alper,Economics,Beck-Alper37@college.edu
+673,Toni Dale,senior,Toni673@college.edu,Data Science,16,NULL,NULL,Moline,Psychology,Moline39@college.edu
+674,Raunac Anderson,senior,Raunac674@college.edu,History,14,Art History,15,Suarez,Statistics,Suarez40@college.edu
+675,Tayanna Manirikumwenatwe,junior,Tayanna675@college.edu,Physics,16,Philosophy,14,Strand,French,Strand9@college.edu
+676,Naaifa el-Habib,freshman,Naaifa676@college.edu,Psychology,14,Physics,16,Baca,Environmental Science,Baca50@college.edu
+677,Iyaad el-Rashed,freshman,Iyaad677@college.edu,Spanish,14,Environmental Science,14,Strand,French,Strand9@college.edu
+678,Rebecca Simmons,sophomore,Rebecca678@college.edu,Economics,16,NULL,NULL,Varghese,Journalism,Varghese17@college.edu
+679,Rickeey Mitchell,sophomore,Rickeey679@college.edu,Astronomy,15,NULL,NULL,Strand,French,Strand9@college.edu
+680,Megan Saucedo-Casillas,freshman,Megan680@college.edu,Journalism,13,Journalism,13,Sommer,History,Sommer3@college.edu
+681,Evan Chen,junior,Evan681@college.edu,Spanish,14,NULL,NULL,Melendez,Spanish,Melendez16@college.edu
+682,Olivia Ranson,junior,Olivia682@college.edu,Spanish,14,NULL,NULL,Milburn,Computer Science,Milburn48@college.edu
+683,Kadeeja Morrow,freshman,Kadeeja683@college.edu,Economics,16,Computer Science,13,Sun,Mandarin,Sun25@college.edu
+684,Asad al-Rad,senior,Asad684@college.edu,Studio Art,13,French,14,Griego,Data Science,Griego20@college.edu
+685,Sean Maker,freshman,Sean685@college.edu,Chemistry,16,Neuroscience,16,Adams,Economics,Adams21@college.edu
+686,Se-Hee Aqeel,senior,Se-Hee686@college.edu,Mandarin,16,NULL,NULL,Adams,Economics,Adams21@college.edu
+687,Nawaal al-Mitri,junior,Nawaal687@college.edu,Philosophy,14,NULL,NULL,Santillan,Journalism,Santillan11@college.edu
+688,Daniel Lopez Martinez,sophomore,Daniel688@college.edu,Computer Science,13,NULL,NULL,Sommer,Statistics,Sommer8@college.edu
+689,Shylo Paben,senior,Shylo689@college.edu,Statistics,13,NULL,NULL,Moline,Psychology,Moline39@college.edu
+690,Emily Nisbet,sophomore,Emily690@college.edu,English,14,NULL,NULL,el-Miah,Political Science,el-Miah15@college.edu
+691,Courtney Strebe,sophomore,Courtney691@college.edu,History,14,NULL,NULL,Brunson,Chemistry,Brunson47@college.edu
+692,Sireen el-Mohiuddin,senior,Sireen692@college.edu,Studio Art,13,NULL,NULL,Donaldson,Philosophy,Donaldson7@college.edu
+693,Christopher Quiroz,senior,Christopher693@college.edu,Economics,16,English,14,Sun,Mandarin,Sun25@college.edu
+694,Alexis Allen,freshman,Alexis694@college.edu,Mandarin,16,Geology,14,Strand,French,Strand9@college.edu
+695,Tylor Stephens,senior,Tylor695@college.edu,French,14,Biology,16,Donaldson,Philosophy,Donaldson7@college.edu
+696,Kenaya Lyon,sophomore,Kenaya696@college.edu,Geology,14,NULL,NULL,Quarles,Data Science,Quarles46@college.edu
+697,Simey Yarangsy,freshman,Simey697@college.edu,Mandarin,16,Neuroscience,16,Bedu Annan,Psychology,BeduAnnan26@college.edu
+698,Althean Sarracino,senior,Althean698@college.edu,Sociology,16,French,14,Quarles,Data Science,Quarles46@college.edu
+699,Judah Iron Cloud,sophomore,Judah699@college.edu,French,14,NULL,NULL,Bortz,Mathematics,Bortz6@college.edu
+700,Lorna Xiong,sophomore,Lorna700@college.edu,Physics,16,Environmental Science,14,Strand,French,Strand9@college.edu
+701,Azhaar el-Reza,freshman,Azhaar701@college.edu,Sociology,16,Physics,16,Lee,Neuroscience,Lee2@college.edu
+702,Varun Vargas,junior,Varun702@college.edu,Psychology,14,Computer Science,13,Fischer,Art History,Fischer28@college.edu
+703,Tabitha Ciacio,sophomore,Tabitha703@college.edu,Geology,14,Geology,14,Milburn,Computer Science,Milburn48@college.edu
+704,Nicole Maickel,freshman,Nicole704@college.edu,Biology,16,Studio Art,13,Griego,Data Science,Griego20@college.edu
+705,Fabian Torres,freshman,Fabian705@college.edu,Spanish,14,NULL,NULL,Cantor,Psychology,Cantor18@college.edu
+706,Emily Mcnerney,freshman,Emily706@college.edu,Chemistry,16,NULL,NULL,Suarez,Statistics,Suarez40@college.edu
+707,Taamira el-Younan,freshman,Taamira707@college.edu,Astronomy,15,Psychology,14,Rael,Neuroscience,Rael35@college.edu
+708,Sheyla Smith,junior,Sheyla708@college.edu,Computer Science,13,Neuroscience,16,Suarez,Statistics,Suarez40@college.edu
+709,Grant Martinez,sophomore,Grant709@college.edu,Computer Science,13,Sociology,16,Lor,Biology,Lor43@college.edu
+710,Dominick Matsumoto,junior,Dominick710@college.edu,Political Science,13,English,14,Quarles,Data Science,Quarles46@college.edu
+711,Gabriela Aragon,junior,Gabriela711@college.edu,Art History,15,Economics,16,Rael,Neuroscience,Rael35@college.edu
+712,Lesante Vaughns,sophomore,Lesante712@college.edu,Economics,16,Statistics,13,Roberts,Philosophy,Roberts24@college.edu
+713,Aakif el-Mahdi,junior,Aakif713@college.edu,Political Science,13,NULL,NULL,Beck-Alper,Economics,Beck-Alper37@college.edu
+714,Julian Bautista-Gonzalez,senior,Julian714@college.edu,Political Science,13,Mandarin,16,Fischer,Art History,Fischer28@college.edu
+715,Karlos Craig-Varela,junior,Karlos715@college.edu,Philosophy,14,Neuroscience,16,Donaldson,Philosophy,Donaldson7@college.edu
+716,Christian Smith,sophomore,Christian716@college.edu,Mathematics,16,NULL,NULL,Santillan,Journalism,Santillan11@college.edu
+717,Deshay Corral,freshman,Deshay717@college.edu,French,14,Biology,16,Bedu Annan,Psychology,BeduAnnan26@college.edu
+718,Derek Sorrell,freshman,Derek718@college.edu,French,14,NULL,NULL,Strand,French,Strand9@college.edu
+719,Dylan Newman,junior,Dylan719@college.edu,Environmental Science,14,Neuroscience,16,Lor,Biology,Lor43@college.edu
+720,Desia Wells,senior,Desia720@college.edu,French,14,NULL,NULL,Adams,Economics,Adams21@college.edu
+721,Rosaida Baca,junior,Rosaida721@college.edu,Mathematics,16,Spanish,14,Hall Pricket,Economics,HallPricket1@college.edu
+722,Babalu Aghi,freshman,Babalu722@college.edu,Computer Science,13,Statistics,13,Hall Pricket,Economics,HallPricket1@college.edu
+723,Erica Archuleta,freshman,Erica723@college.edu,Data Science,16,Geology,14,Chen,Mandarin,Chen41@college.edu
+724,Janay Villa,senior,Janay724@college.edu,Mandarin,16,Chemistry,16,Martinez,Psychology,Martinez10@college.edu
+725,Katrina Fifita,senior,Katrina725@college.edu,Journalism,13,NULL,NULL,el-Hameed,Neuroscience,el-Hameed34@college.edu
+726,Karthikeyan Nguyen,junior,Karthikeyan726@college.edu,Journalism,13,NULL,NULL,Ballard,Mathematics,Ballard45@college.edu
+727,Avery Herrod,sophomore,Avery727@college.edu,Physics,16,Geology,14,Lee,Neuroscience,Lee2@college.edu
+728,Leo Karki,freshman,Leo728@college.edu,French,14,NULL,NULL,Lambright,Data Science,Lambright27@college.edu
+729,Wintana Mcmurray,sophomore,Wintana729@college.edu,Spanish,14,Statistics,13,Griego,Data Science,Griego20@college.edu
+730,Toni Beeftu,senior,Toni730@college.edu,Mandarin,16,NULL,NULL,Mccann,Environmental Science,Mccann23@college.edu
+731,Emily Hannigan,freshman,Emily731@college.edu,Neuroscience,16,Psychology,14,Von Holten,History,VonHolten30@college.edu
+732,Luis Rivas Garcia,senior,Luis732@college.edu,English,14,Economics,16,Roberts,Philosophy,Roberts24@college.edu
+733,Victorea Dhillon,freshman,Victorea733@college.edu,Philosophy,14,Chemistry,16,Solarin,Computer Science,Solarin32@college.edu
+734,Mariah Chavez,sophomore,Mariah734@college.edu,Economics,16,Biology,16,Sun,Mandarin,Sun25@college.edu
+735,Maajid el-Akbari,freshman,Maajid735@college.edu,Psychology,14,Journalism,13,Hall Pricket,Economics,HallPricket1@college.edu
+736,Faisal el-Abad,junior,Faisal736@college.edu,Environmental Science,14,NULL,NULL,Donaldson,Philosophy,Donaldson7@college.edu
+737,Perla Ortega,senior,Perla737@college.edu,Mathematics,16,Spanish,14,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+738,Sergio Godinez Solis,junior,Sergio738@college.edu,French,14,NULL,NULL,Adams,Economics,Adams21@college.edu
+739,Treyvon Blackmon,freshman,Treyvon739@college.edu,Political Science,13,Geology,14,Lee,Neuroscience,Lee2@college.edu
+740,Haneef el-Moradi,sophomore,Haneef740@college.edu,Sociology,16,History,14,Lee,Neuroscience,Lee2@college.edu
+741,Khiyachanae Berry,freshman,Khiyachanae741@college.edu,Computer Science,13,NULL,NULL,Creighton Howard,History,CreightonHoward31@college.edu
+742,Daleel el-Laham,junior,Daleel742@college.edu,Spanish,14,Sociology,16,Bedu Annan,Psychology,BeduAnnan26@college.edu
+743,Travis Alpert,freshman,Travis743@college.edu,Journalism,13,NULL,NULL,Chen,Mandarin,Chen41@college.edu
+744,Kylie Hammersley,freshman,Kylie744@college.edu,Sociology,16,Neuroscience,16,Bedu Annan,Psychology,BeduAnnan26@college.edu
+745,Jumaima al-Shaker,sophomore,Jumaima745@college.edu,Studio Art,13,NULL,NULL,Solarin,Computer Science,Solarin32@college.edu
+746,Shania Garcia,senior,Shania746@college.edu,Creative Writing,15,NULL,NULL,Fischer,Art History,Fischer28@college.edu
+747,Shahaama al-Saeed,freshman,Shahaama747@college.edu,Data Science,16,NULL,NULL,Lambright,Data Science,Lambright27@college.edu
+748,Lonnie Simmons,senior,Lonnie748@college.edu,Biology,16,Neuroscience,16,Bedu Annan,Psychology,BeduAnnan26@college.edu
+749,Jamal Le,sophomore,Jamal749@college.edu,Political Science,13,Political Science,13,Suarez,Statistics,Suarez40@college.edu
+750,Muntaha al-Rasheed,freshman,Muntaha750@college.edu,Geology,14,Geology,14,Hayes,Environmental Science,Hayes44@college.edu
+751,Gabrielle Baek,junior,Gabrielle751@college.edu,Spanish,14,NULL,NULL,Martinez,Neuroscience,Martinez22@college.edu
+752,Miller Black,sophomore,Miller752@college.edu,Sociology,16,Philosophy,14,Hall Pricket,Economics,HallPricket1@college.edu
+753,Sannah Raynes,senior,Sannah753@college.edu,Sociology,16,NULL,NULL,el-Hameed,Neuroscience,el-Hameed34@college.edu
+754,Munisa al-Hoda,sophomore,Munisa754@college.edu,Environmental Science,14,Data Science,16,el-Ashraf,Economics,el-Ashraf14@college.edu
+755,Hanah Schroeder,junior,Hanah755@college.edu,Environmental Science,14,Physics,16,Sun,Mandarin,Sun25@college.edu
+756,Leilani Song,sophomore,Leilani756@college.edu,Data Science,16,NULL,NULL,Ballard,Mathematics,Ballard45@college.edu
+757,Claire Lai,sophomore,Claire757@college.edu,Spanish,14,Physics,16,el-Ashraf,Economics,el-Ashraf14@college.edu
+758,Joseph Wilson,senior,Joseph758@college.edu,Chemistry,16,NULL,NULL,el-Mansour,Geology,el-Mansour38@college.edu
+759,Taylor Larson,junior,Taylor759@college.edu,Journalism,13,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+760,Prentiss Clift,junior,Prentiss760@college.edu,Geology,14,NULL,NULL,Milburn,Computer Science,Milburn48@college.edu
+761,Zachary Miles,freshman,Zachary761@college.edu,Computer Science,13,NULL,NULL,Martinez,Neuroscience,Martinez22@college.edu
+762,Hea Tsui,sophomore,Hea762@college.edu,Computer Science,13,NULL,NULL,Mccann,Environmental Science,Mccann23@college.edu
+763,Dennis Sylvester,sophomore,Dennis763@college.edu,Philosophy,14,NULL,NULL,Baca,Environmental Science,Baca50@college.edu
+764,Najim Torres,freshman,Najim764@college.edu,Neuroscience,16,NULL,NULL,Giles,Statistics,Giles12@college.edu
+765,Harry Lu,senior,Harry765@college.edu,History,14,Astronomy,15,Von Holten,History,VonHolten30@college.edu
+766,Jamy Andrew,senior,Jamy766@college.edu,Mandarin,16,Political Science,13,Solarin,Computer Science,Solarin32@college.edu
+767,Gabriela Cuevas,junior,Gabriela767@college.edu,Geology,14,Studio Art,13,Melendez,Spanish,Melendez16@college.edu
+768,Dominic Whitetree,senior,Dominic768@college.edu,Economics,16,NULL,NULL,Lobato,Physics,Lobato33@college.edu
+769,Maren Behera,junior,Maren769@college.edu,Political Science,13,NULL,NULL,Lee,Neuroscience,Lee2@college.edu
+770,Kevin Goldstein,freshman,Kevin770@college.edu,Geology,14,NULL,NULL,Giles,Statistics,Giles12@college.edu
+771,Nawfal el-Baten,junior,Nawfal771@college.edu,Philosophy,14,NULL,NULL,el-Miah,Political Science,el-Miah15@college.edu
+772,Jordan Johnson,sophomore,Jordan772@college.edu,History,14,NULL,NULL,el-Hameed,Neuroscience,el-Hameed34@college.edu
+773,Stephan Johnson,freshman,Stephan773@college.edu,Statistics,13,NULL,NULL,Adams,Economics,Adams21@college.edu
+774,Heidi Steward,freshman,Heidi774@college.edu,Data Science,16,Computer Science,13,Santillan,Journalism,Santillan11@college.edu
+775,Timothy Garner,junior,Timothy775@college.edu,Neuroscience,16,NULL,NULL,Roberts,Philosophy,Roberts24@college.edu
+776,Dominique Robinson,freshman,Dominique776@college.edu,Sociology,16,NULL,NULL,Milburn,Computer Science,Milburn48@college.edu
+777,Dawa Yang,freshman,Dawa777@college.edu,Physics,16,NULL,NULL,Donaldson,Philosophy,Donaldson7@college.edu
+778,Joseph Rel,sophomore,Joseph778@college.edu,Environmental Science,14,Sociology,16,Baca,Environmental Science,Baca50@college.edu
+779,Muntasir el-Mansur,junior,Muntasir779@college.edu,Political Science,13,NULL,NULL,Lor,Biology,Lor43@college.edu
+780,Jahniqua Wilson,freshman,Jahniqua780@college.edu,Data Science,16,Biology,16,Giles,Statistics,Giles12@college.edu
+781,Dallas Jurnett,freshman,Dallas781@college.edu,History,14,Spanish,14,Martinez,Psychology,Martinez10@college.edu
+782,Salwa el-Dajani,sophomore,Salwa782@college.edu,Chemistry,16,NULL,NULL,Medina,Geology,Medina19@college.edu
+783,Kyra Smith,sophomore,Kyra783@college.edu,Creative Writing,15,Physics,16,Von Holten,History,VonHolten30@college.edu
+784,Kelly Mcclaskey,senior,Kelly784@college.edu,Statistics,13,Chemistry,16,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+785,Alvian Jiang,freshman,Alvian785@college.edu,French,14,NULL,NULL,Rael,Neuroscience,Rael35@college.edu
+786,Nazmi al-Tabet,freshman,Nazmi786@college.edu,Art History,15,French,14,Barnhill,Astronomy,Barnhill36@college.edu
+787,Daniela Borquez,freshman,Daniela787@college.edu,Journalism,13,Astronomy,15,el-Hameed,Neuroscience,el-Hameed34@college.edu
+788,Alvin Hang,senior,Alvin788@college.edu,Neuroscience,16,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+789,Salma el-Soltani,senior,Salma789@college.edu,Sociology,16,Creative Writing,15,Chen,Mandarin,Chen41@college.edu
+790,Tyrone Marshall,senior,Tyrone790@college.edu,Journalism,13,NULL,NULL,Lor,Biology,Lor43@college.edu
+791,Christine Comer,senior,Christine791@college.edu,Mathematics,16,NULL,NULL,el-Mansour,Geology,el-Mansour38@college.edu
+792,Morgan Glowczewski,sophomore,Morgan792@college.edu,Art History,15,Philosophy,14,Quarles,Data Science,Quarles46@college.edu
+793,Riyaal el-Rahaim,senior,Riyaal793@college.edu,Art History,15,Physics,16,Brunson,Chemistry,Brunson47@college.edu
+794,Mikkayla Lythgoe,sophomore,Mikkayla794@college.edu,Biology,16,Studio Art,13,Griego,Data Science,Griego20@college.edu
+795,Elaine Trujillo,sophomore,Elaine795@college.edu,English,14,Astronomy,15,Rapp,Biology,Rapp4@college.edu
+796,Maria Yoo,junior,Maria796@college.edu,Creative Writing,15,Environmental Science,14,Bedu Annan,Psychology,BeduAnnan26@college.edu
+797,Omar Farias,freshman,Omar797@college.edu,History,14,NULL,NULL,Dibello,Statistics,Dibello5@college.edu
+798,Sarah Sandoval,junior,Sarah798@college.edu,Mandarin,16,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+799,Courtney Phillips,junior,Courtney799@college.edu,Sociology,16,NULL,NULL,Milburn,Computer Science,Milburn48@college.edu
+800,Katherine Kim,freshman,Katherine800@college.edu,English,14,NULL,NULL,el-Hameed,Neuroscience,el-Hameed34@college.edu
+801,Samuel Williams-Dixon,junior,Samuel801@college.edu,Journalism,13,NULL,NULL,Rael,Neuroscience,Rael35@college.edu
+802,Aatif al-Kazi,sophomore,Aatif802@college.edu,Neuroscience,16,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+803,Matthew Duncan,senior,Matthew803@college.edu,Spanish,14,Computer Science,13,Martinez,Neuroscience,Martinez22@college.edu
+804,Arhab al-Rad,senior,Arhab804@college.edu,Mathematics,16,NULL,NULL,Cantor,Psychology,Cantor18@college.edu
+805,Shaheer el-Bina,junior,Shaheer805@college.edu,Political Science,13,Geology,14,Lambright,Data Science,Lambright27@college.edu
+806,Stephanie Guettlein,sophomore,Stephanie806@college.edu,Data Science,16,Computer Science,13,Roberts,Philosophy,Roberts24@college.edu
+807,Ann Gonzales,sophomore,Ann807@college.edu,Geology,14,NULL,NULL,Sommer,History,Sommer3@college.edu
+808,Nicholas Gardner,junior,Nicholas808@college.edu,Studio Art,13,Statistics,13,Solarin,Computer Science,Solarin32@college.edu
+809,Nigel Lee,sophomore,Nigel809@college.edu,Computer Science,13,Computer Science,13,Mccann,Environmental Science,Mccann23@college.edu
+810,Robert Laner,freshman,Robert810@college.edu,Physics,16,NULL,NULL,Ballard,Mathematics,Ballard45@college.edu
+811,Dakota Stirmers,freshman,Dakota811@college.edu,Mathematics,16,NULL,NULL,Sommer,History,Sommer3@college.edu
+812,Michael Loyan,senior,Michael812@college.edu,French,14,Psychology,14,Contreras,Creative Writing,Contreras13@college.edu
+813,Qionn Stancil,junior,Qionn813@college.edu,Geology,14,Statistics,13,Bedu Annan,Psychology,BeduAnnan26@college.edu
+814,Mariah Gesick,senior,Mariah814@college.edu,Economics,16,NULL,NULL,Rapp,Biology,Rapp4@college.edu
+815,Oscar Ramirez,sophomore,Oscar815@college.edu,Statistics,13,Studio Art,13,Strand,French,Strand9@college.edu
+816,Khaleela al-Mannan,junior,Khaleela816@college.edu,History,14,Mathematics,16,Contreras,Creative Writing,Contreras13@college.edu
+817,Cole Gonzalez Maldonado,junior,Cole817@college.edu,Spanish,14,Mathematics,16,Lambright,Data Science,Lambright27@college.edu
+818,Lilianna Nguyen,sophomore,Lilianna818@college.edu,Sociology,16,Environmental Science,14,Bedu Annan,Psychology,BeduAnnan26@college.edu
+819,Annacha Bailey,senior,Annacha819@college.edu,Computer Science,13,NULL,NULL,Brunson,Chemistry,Brunson47@college.edu
+820,Musheer el-Edris,junior,Musheer820@college.edu,Creative Writing,15,Biology,16,Cardoza,Computer Science,Cardoza49@college.edu
+821,Megan Ochsie,junior,Megan821@college.edu,Political Science,13,Psychology,14,Martinez,Neuroscience,Martinez22@college.edu
+822,Derrick West,freshman,Derrick822@college.edu,Geology,14,NULL,NULL,Cardoza,Computer Science,Cardoza49@college.edu
+823,Dong Sung Emerson,junior,DongSung823@college.edu,Sociology,16,Biology,16,Mccann,Environmental Science,Mccann23@college.edu
+824,Joshua Lampe,sophomore,Joshua824@college.edu,Studio Art,13,NULL,NULL,Creighton Howard,History,CreightonHoward31@college.edu
+825,Tomas Duran,senior,Tomas825@college.edu,Neuroscience,16,NULL,NULL,Ballard,Mathematics,Ballard45@college.edu
+826,Layla Dolson,senior,Layla826@college.edu,Journalism,13,NULL,NULL,el-Hameed,Neuroscience,el-Hameed34@college.edu
+827,Bryan Martin,freshman,Bryan827@college.edu,Journalism,13,Data Science,16,Griego,Data Science,Griego20@college.edu
+828,Kylie Bruno,freshman,Kylie828@college.edu,Biology,16,NULL,NULL,el-Ashraf,Economics,el-Ashraf14@college.edu
+829,Melissa Lee,junior,Melissa829@college.edu,Statistics,13,NULL,NULL,Beck-Alper,Economics,Beck-Alper37@college.edu
+830,Ishmael Dodd,sophomore,Ishmael830@college.edu,Sociology,16,NULL,NULL,Santillan,Journalism,Santillan11@college.edu
+831,Saara el-Matar,junior,Saara831@college.edu,Data Science,16,Data Science,16,Moline,Psychology,Moline39@college.edu
+832,Steven Rodelander,senior,Steven832@college.edu,Chemistry,16,NULL,NULL,Santillan,Journalism,Santillan11@college.edu
+833,Hamdaan el-Hossain,sophomore,Hamdaan833@college.edu,Creative Writing,15,Journalism,13,Fischer,Art History,Fischer28@college.edu
+834,Jeremy Ives,senior,Jeremy834@college.edu,Economics,16,NULL,NULL,Sommer,History,Sommer3@college.edu
+835,Tiana Tudor,junior,Tiana835@college.edu,Spanish,14,Physics,16,Brunson,Chemistry,Brunson47@college.edu
+836,Marcus Snowhawk,junior,Marcus836@college.edu,History,14,Environmental Science,14,Donaldson,Philosophy,Donaldson7@college.edu
+837,Octavio Ruiz,senior,Octavio837@college.edu,Sociology,16,Neuroscience,16,Melendez,Spanish,Melendez16@college.edu
+838,Sapphire Galvan,freshman,Sapphire838@college.edu,Environmental Science,14,Astronomy,15,Bedu Annan,Psychology,BeduAnnan26@college.edu
+839,Neil Kade,sophomore,Neil839@college.edu,Statistics,13,Art History,15,Beck-Alper,Economics,Beck-Alper37@college.edu
+840,Dillon Marelin,sophomore,Dillon840@college.edu,French,14,NULL,NULL,Solarin,Computer Science,Solarin32@college.edu
+841,Hysendra Mullins,senior,Hysendra841@college.edu,Psychology,14,Statistics,13,Giles,Statistics,Giles12@college.edu
+842,Chase Mcdonald,sophomore,Chase842@college.edu,Neuroscience,16,English,14,Fischer,Art History,Fischer28@college.edu
+843,Ireshea Burbank,freshman,Ireshea843@college.edu,Physics,16,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+844,Tyler Thomas,freshman,Tyler844@college.edu,Economics,16,NULL,NULL,Solarin,Computer Science,Solarin32@college.edu
+845,Courtney Watson,freshman,Courtney845@college.edu,Physics,16,Sociology,16,Barnhill,Astronomy,Barnhill36@college.edu
+846,Taylor Leon,sophomore,Taylor846@college.edu,Art History,15,NULL,NULL,Roberts,Philosophy,Roberts24@college.edu
+847,Brandon Martinez,freshman,Brandon847@college.edu,Psychology,14,Geology,14,Baca,Environmental Science,Baca50@college.edu
+848,Gregory Munguia,sophomore,Gregory848@college.edu,Computer Science,13,Physics,16,Strand,French,Strand9@college.edu
+849,Darrell Digregorio,sophomore,Darrell849@college.edu,Physics,16,Physics,16,Hall Pricket,Economics,HallPricket1@college.edu
+850,Maritza Martinez-Perez,junior,Maritza850@college.edu,Spanish,14,NULL,NULL,Lor,Biology,Lor43@college.edu
+851,Jamilet Quiroga,senior,Jamilet851@college.edu,Psychology,14,NULL,NULL,Baca,Environmental Science,Baca50@college.edu
+852,Audrey Rankin,freshman,Audrey852@college.edu,Chemistry,16,Statistics,13,Mccann,Environmental Science,Mccann23@college.edu
+853,Jasmine Smith,junior,Jasmine853@college.edu,Art History,15,NULL,NULL,Strand,French,Strand9@college.edu
+854,Lloyd Estrada,junior,Lloyd854@college.edu,Chemistry,16,Geology,14,Adams,Economics,Adams21@college.edu
+855,Mack Kane,freshman,Mack855@college.edu,Environmental Science,14,French,14,Barnhill,Astronomy,Barnhill36@college.edu
+856,Westley Mccormack,freshman,Westley856@college.edu,Psychology,14,Computer Science,13,Lor,Biology,Lor43@college.edu
+857,Faalih el-Guler,junior,Faalih857@college.edu,Sociology,16,NULL,NULL,Lee,Neuroscience,Lee2@college.edu
+858,Kelly Colunga,senior,Kelly858@college.edu,Chemistry,16,French,14,Rapp,Biology,Rapp4@college.edu
+859,Najaat el-Sesay,sophomore,Najaat859@college.edu,History,14,NULL,NULL,Sommer,History,Sommer3@college.edu
+860,Pebbles Esquivel,junior,Pebbles860@college.edu,Economics,16,Environmental Science,14,Barnhill,Astronomy,Barnhill36@college.edu
+861,Darrell Jacobs,sophomore,Darrell861@college.edu,Statistics,13,Studio Art,13,Varghese,Journalism,Varghese17@college.edu
+862,Nicole Cesar Yabar,senior,Nicole862@college.edu,Journalism,13,NULL,NULL,Rael,Neuroscience,Rael35@college.edu
+863,Elicia Wilson-Parson,freshman,Elicia863@college.edu,Political Science,13,Sociology,16,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+864,Cornelius Brewer,freshman,Cornelius864@college.edu,French,14,NULL,NULL,Santillan,Journalism,Santillan11@college.edu
+865,Austin Lankford,freshman,Austin865@college.edu,Sociology,16,History,14,Bortz,Mathematics,Bortz6@college.edu
+866,Bradley Mccarty,junior,Bradley866@college.edu,Political Science,13,Chemistry,16,Von Holten,History,VonHolten30@college.edu
+867,Barbara Diederich,freshman,Barbara867@college.edu,Neuroscience,16,Political Science,13,Medina,Geology,Medina19@college.edu
+868,Johnathan Quintana,senior,Johnathan868@college.edu,Neuroscience,16,NULL,NULL,Cardoza,Computer Science,Cardoza49@college.edu
+869,Jacky Verdos,senior,Jacky869@college.edu,Geology,14,Data Science,16,Mccann,Environmental Science,Mccann23@college.edu
+870,K'Sandra Gomez,sophomore,K'Sandra870@college.edu,English,14,Journalism,13,Cardoza,Computer Science,Cardoza49@college.edu
+871,Brandon Feno,sophomore,Brandon871@college.edu,History,14,Journalism,13,Suarez,Statistics,Suarez40@college.edu
+872,Nohelia Yancey,senior,Nohelia872@college.edu,Geology,14,Mathematics,16,Lambright,Data Science,Lambright27@college.edu
+873,Saahira al-Ghaffari,junior,Saahira873@college.edu,Studio Art,13,NULL,NULL,Varghese,Journalism,Varghese17@college.edu
+874,Nusaiba al-Ammar,junior,Nusaiba874@college.edu,Mathematics,16,Political Science,13,Bedu Annan,Psychology,BeduAnnan26@college.edu
+875,Abbaas al-Hai,junior,Abbaas875@college.edu,Astronomy,15,Chemistry,16,Bortz,Mathematics,Bortz6@college.edu
+876,Tatiana Vigil,sophomore,Tatiana876@college.edu,Sociology,16,NULL,NULL,Cardoza,Computer Science,Cardoza49@college.edu
+877,Tonya Pope,junior,Tonya877@college.edu,Environmental Science,14,Art History,15,el-Mansour,Geology,el-Mansour38@college.edu
+878,Ciara Papoulas,freshman,Ciara878@college.edu,Political Science,13,English,14,Dibello,Statistics,Dibello5@college.edu
+879,Javier Padilla,freshman,Javier879@college.edu,Biology,16,Chemistry,16,el-Ashraf,Economics,el-Ashraf14@college.edu
+880,Savannah Ragona,freshman,Savannah880@college.edu,Journalism,13,NULL,NULL,el-Hameed,Neuroscience,el-Hameed34@college.edu
+881,Laura Field,sophomore,Laura881@college.edu,Geology,14,Art History,15,Bedu Annan,Psychology,BeduAnnan26@college.edu
+882,Nicholas Jacobs,sophomore,Nicholas882@college.edu,History,14,Art History,15,Quarles,Data Science,Quarles46@college.edu
+883,Kevin Fiddelke,freshman,Kevin883@college.edu,Sociology,16,Geology,14,Contreras,Creative Writing,Contreras13@college.edu
+884,James Madera,junior,James884@college.edu,Mandarin,16,Mandarin,16,Cantor,Psychology,Cantor18@college.edu
+885,Scott Rodriguez,sophomore,Scott885@college.edu,Economics,16,NULL,NULL,Sun,Mandarin,Sun25@college.edu
+886,Morgan Knodel-Eldridge,senior,Morgan886@college.edu,English,14,Spanish,14,al-Sesay,Geology,al-Sesay42@college.edu
+887,Edgar Gonzalez,junior,Edgar887@college.edu,Philosophy,14,Political Science,13,Medina,Geology,Medina19@college.edu
+888,Samuel Newberry,senior,Samuel888@college.edu,Biology,16,Environmental Science,14,Rapp,Biology,Rapp4@college.edu
+889,Sarah Johnson,junior,Sarah889@college.edu,Studio Art,13,NULL,NULL,Lee,Neuroscience,Lee2@college.edu
+890,Mutee'a al-Yasin,senior,Mutee'a890@college.edu,Political Science,13,Computer Science,13,Martinez,Neuroscience,Martinez22@college.edu
+891,Marcus Velez,senior,Marcus891@college.edu,Environmental Science,14,History,14,Donaldson,Philosophy,Donaldson7@college.edu
+892,Tyler Giehm,sophomore,Tyler892@college.edu,Economics,16,Neuroscience,16,Solarin,Computer Science,Solarin32@college.edu
+893,Dylan Paternoster,sophomore,Dylan893@college.edu,Environmental Science,14,NULL,NULL,Hall Pricket,Economics,HallPricket1@college.edu
+894,Miguel Subia,junior,Miguel894@college.edu,Statistics,13,Chemistry,16,Cantor,Psychology,Cantor18@college.edu
+895,Selina Arellano,junior,Selina895@college.edu,Physics,16,NULL,NULL,Adams,Economics,Adams21@college.edu
+896,Tamara Boxley,junior,Tamara896@college.edu,English,14,NULL,NULL,Lambright,Data Science,Lambright27@college.edu
+897,Blake Galyon,sophomore,Blake897@college.edu,Statistics,13,Astronomy,15,Cardoza,Computer Science,Cardoza49@college.edu
+898,Elizabeth Vallie,junior,Elizabeth898@college.edu,Spanish,14,NULL,NULL,Roberts,Philosophy,Roberts24@college.edu
+899,Daisy Lopez,sophomore,Daisy899@college.edu,Psychology,14,Philosophy,14,Adams,Economics,Adams21@college.edu
+900,Urwa el-Salame,senior,Urwa900@college.edu,Data Science,16,Psychology,14,Solarin,Computer Science,Solarin32@college.edu
+901,Guadalupe Gussman,junior,Guadalupe901@college.edu,French,14,Studio Art,13,Milburn,Computer Science,Milburn48@college.edu
+902,Ryan Legaretta,junior,Ryan902@college.edu,Environmental Science,14,Mandarin,16,Rapp,Biology,Rapp4@college.edu
+903,Brandon Kerford,senior,Brandon903@college.edu,Computer Science,13,History,14,Griego,Data Science,Griego20@college.edu
+904,Nicholas Boucher,sophomore,Nicholas904@college.edu,French,14,Data Science,16,Moline,Psychology,Moline39@college.edu
+905,Alex West,sophomore,Alex905@college.edu,History,14,NULL,NULL,Roberts,Philosophy,Roberts24@college.edu
+906,Jamie Downs,junior,Jamie906@college.edu,Statistics,13,NULL,NULL,Martinez,Psychology,Martinez10@college.edu
+907,Saadiq el-Obeid,freshman,Saadiq907@college.edu,Political Science,13,NULL,NULL,Martinez,Neuroscience,Martinez22@college.edu
+908,Nicholas Haring,junior,Nicholas908@college.edu,Spanish,14,Art History,15,Martinez,Neuroscience,Martinez22@college.edu
+909,Brittany Milburn,junior,Brittany909@college.edu,Neuroscience,16,Mathematics,16,Milburn,Computer Science,Milburn48@college.edu
+910,Shafeeqa el-Abdella,freshman,Shafeeqa910@college.edu,Computer Science,13,History,14,Cantor,Psychology,Cantor18@college.edu
+911,Cory Tipton,junior,Cory911@college.edu,Chemistry,16,English,14,Lee,Neuroscience,Lee2@college.edu
+912,Peter Mian,senior,Peter912@college.edu,History,14,Psychology,14,Donaldson,Philosophy,Donaldson7@college.edu
+913,Adriane Aggers,junior,Adriane913@college.edu,Spanish,14,Environmental Science,14,Fischer,Art History,Fischer28@college.edu
+914,Jazmyne Ulibarri,sophomore,Jazmyne914@college.edu,Environmental Science,14,Mandarin,16,Lobato,Physics,Lobato33@college.edu
+915,Austin Westphal,freshman,Austin915@college.edu,Creative Writing,15,Geology,14,Griego,Data Science,Griego20@college.edu
+916,Dylan Jaramillo,sophomore,Dylan916@college.edu,Political Science,13,Art History,15,el-Miah,Political Science,el-Miah15@college.edu
+917,Joseph Finn,freshman,Joseph917@college.edu,Journalism,13,Studio Art,13,Adams,Economics,Adams21@college.edu
+918,Tashari Kitchen,senior,Tashari918@college.edu,Economics,16,History,14,Hall Pricket,Economics,HallPricket1@college.edu
+919,Raul Bough Jr,senior,Raul919@college.edu,Creative Writing,15,Studio Art,13,Strand,French,Strand9@college.edu
+920,Haajara el-Can,sophomore,Haajara920@college.edu,Mandarin,16,Environmental Science,14,Salazar-Rico,Mathematics,Salazar-Rico29@college.edu
+921,Michael Woods,junior,Michael921@college.edu,Physics,16,English,14,Varghese,Journalism,Varghese17@college.edu
+922,Alexis Her,junior,Alexis922@college.edu,Geology,14,NULL,NULL,Giles,Statistics,Giles12@college.edu
+923,Brandi Earnest,senior,Brandi923@college.edu,History,14,Spanish,14,Barnhill,Astronomy,Barnhill36@college.edu
+924,Cody Kimminau,junior,Cody924@college.edu,Physics,16,NULL,NULL,Beck-Alper,Economics,Beck-Alper37@college.edu
+925,Megan Janet Kazemi,junior,MeganJanet925@college.edu,History,14,Astronomy,15,Creighton Howard,History,CreightonHoward31@college.edu
+926,Qamraaa al-Awan,junior,Qamraaa926@college.edu,Statistics,13,NULL,NULL,Lambright,Data Science,Lambright27@college.edu
+927,Alexia Whitfield,junior,Alexia927@college.edu,Geology,14,Biology,16,Sun,Mandarin,Sun25@college.edu
+928,Raaida el-Sadek,sophomore,Raaida928@college.edu,Biology,16,Data Science,16,Roberts,Philosophy,Roberts24@college.edu
+929,Cody Jones,junior,Cody929@college.edu,Geology,14,Environmental Science,14,Von Holten,History,VonHolten30@college.edu
+930,Maurica Crowley,senior,Maurica930@college.edu,Journalism,13,NULL,NULL,Creighton Howard,History,CreightonHoward31@college.edu
+931,Dennis Ortega,senior,Dennis931@college.edu,Geology,14,Computer Science,13,Lee,Neuroscience,Lee2@college.edu
+932,Nicholas Walls,junior,Nicholas932@college.edu,Mathematics,16,NULL,NULL,Suarez,Statistics,Suarez40@college.edu
+933,Joann Chen,junior,Joann933@college.edu,Journalism,13,Philosophy,14,el-Mansour,Geology,el-Mansour38@college.edu
+934,Andrea Banuelos-Catano,senior,Andrea934@college.edu,Statistics,13,Psychology,14,Hayes,Environmental Science,Hayes44@college.edu
+935,Johnny Hollis,freshman,Johnny935@college.edu,Creative Writing,15,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+936,Minnah el-Naim,senior,Minnah936@college.edu,Neuroscience,16,Philosophy,14,Lor,Biology,Lor43@college.edu
+937,Eduardo Marquez,sophomore,Eduardo937@college.edu,Geology,14,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+938,Mercedez Tisch,senior,Mercedez938@college.edu,Creative Writing,15,Sociology,16,Sommer,Statistics,Sommer8@college.edu
+939,Isaiah Conejo,sophomore,Isaiah939@college.edu,Statistics,13,NULL,NULL,Cardoza,Computer Science,Cardoza49@college.edu
+940,Rorie Topper,senior,Rorie940@college.edu,Spanish,14,French,14,Adams,Economics,Adams21@college.edu
+941,Sankeerth Mungmee,freshman,Sankeerth941@college.edu,Spanish,14,History,14,Solarin,Computer Science,Solarin32@college.edu
+942,Hikma al-Kaber,freshman,Hikma942@college.edu,Computer Science,13,NULL,NULL,Strand,French,Strand9@college.edu
+943,Ramona Villarreal,junior,Ramona943@college.edu,Philosophy,14,NULL,NULL,Creighton Howard,History,CreightonHoward31@college.edu
+944,Nafeesa al-Shafi,senior,Nafeesa944@college.edu,Creative Writing,15,Physics,16,Medina,Geology,Medina19@college.edu
+945,Aurora Correa,sophomore,Aurora945@college.edu,Spanish,14,Statistics,13,Von Holten,History,VonHolten30@college.edu
+946,Izabel Mckean,senior,Izabel946@college.edu,Economics,16,Computer Science,13,Rael,Neuroscience,Rael35@college.edu
+947,Jennifer Vang,senior,Jennifer947@college.edu,English,14,Art History,15,Cantor,Psychology,Cantor18@college.edu
+948,Levi O'Rourke,sophomore,Levi948@college.edu,Spanish,14,Economics,16,Santillan,Journalism,Santillan11@college.edu
+949,Shristi Kalaga,junior,Shristi949@college.edu,Journalism,13,Computer Science,13,Varghese,Journalism,Varghese17@college.edu
+950,Christopher Rieck,freshman,Christopher950@college.edu,Biology,16,Political Science,13,Hayes,Environmental Science,Hayes44@college.edu
+951,Jayse Demarco,senior,Jayse951@college.edu,Physics,16,NULL,NULL,Adams,Economics,Adams21@college.edu
+952,Rabi al-Hosein,junior,Rabi952@college.edu,Studio Art,13,Neuroscience,16,Sommer,History,Sommer3@college.edu
+953,Benjamin Randall,senior,Benjamin953@college.edu,Mandarin,16,Sociology,16,Melendez,Spanish,Melendez16@college.edu
+954,Taylor Ortiz,freshman,Taylor954@college.edu,Mathematics,16,NULL,NULL,Martinez,Psychology,Martinez10@college.edu
+955,Andrew Molina,freshman,Andrew955@college.edu,History,14,Computer Science,13,Sommer,History,Sommer3@college.edu
+956,Musaddiq el-Sarwar,senior,Musaddiq956@college.edu,English,14,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+957,Johnny Chavez,senior,Johnny957@college.edu,Political Science,13,Computer Science,13,Giles,Statistics,Giles12@college.edu
+958,Chloe Iron Cloud-Gresko,sophomore,Chloe958@college.edu,Physics,16,NULL,NULL,Giles,Statistics,Giles12@college.edu
+959,Daisy Quintero,senior,Daisy959@college.edu,Computer Science,13,Philosophy,14,Ballard,Mathematics,Ballard45@college.edu
+960,Paul Anderson,sophomore,Paul960@college.edu,Creative Writing,15,NULL,NULL,Hayes,Environmental Science,Hayes44@college.edu
+961,Madison Mara,freshman,Madison961@college.edu,Mandarin,16,Journalism,13,Brunson,Chemistry,Brunson47@college.edu
+962,Jaslyn Robles,senior,Jaslyn962@college.edu,Art History,15,NULL,NULL,Hayes,Environmental Science,Hayes44@college.edu
+963,Fuaad el-Abdallah,sophomore,Fuaad963@college.edu,Environmental Science,14,NULL,NULL,Adams,Economics,Adams21@college.edu
+964,Yuanxin Phouminh,junior,Yuanxin964@college.edu,Sociology,16,NULL,NULL,Hall Pricket,Economics,HallPricket1@college.edu
+965,Zainuddeen el-Diab,sophomore,Zainuddeen965@college.edu,Physics,16,NULL,NULL,Hall Pricket,Economics,HallPricket1@college.edu
+966,Haala el-Saber,sophomore,Haala966@college.edu,Neuroscience,16,French,14,Beck-Alper,Economics,Beck-Alper37@college.edu
+967,Mikayla Jones,sophomore,Mikayla967@college.edu,Data Science,16,Chemistry,16,Ballard,Mathematics,Ballard45@college.edu
+968,Morgan Celestino,sophomore,Morgan968@college.edu,English,14,Economics,16,Sommer,History,Sommer3@college.edu
+969,Dorian Davis,senior,Dorian969@college.edu,Mandarin,16,Physics,16,Dibello,Statistics,Dibello5@college.edu
+970,Khawla al-Bashir,sophomore,Khawla970@college.edu,History,14,NULL,NULL,Melendez,Spanish,Melendez16@college.edu
+971,Yinghan Lyons,sophomore,Yinghan971@college.edu,Chemistry,16,Psychology,14,el-Ashraf,Economics,el-Ashraf14@college.edu
+972,Thaamira al-Abbasi,junior,Thaamira972@college.edu,Astronomy,15,Mathematics,16,Lee,Neuroscience,Lee2@college.edu
+973,Sierra Bockelman,senior,Sierra973@college.edu,Physics,16,NULL,NULL,Suarez,Statistics,Suarez40@college.edu
+974,Angele Stinchcomb,senior,Angele974@college.edu,Political Science,13,Spanish,14,el-Miah,Political Science,el-Miah15@college.edu
+975,Courtney Fontana,freshman,Courtney975@college.edu,Mathematics,16,Journalism,13,Strand,French,Strand9@college.edu
+976,Donte Glover,senior,Donte976@college.edu,English,14,Psychology,14,Melendez,Spanish,Melendez16@college.edu
+977,Joshua Biondolillo,freshman,Joshua977@college.edu,Statistics,13,Statistics,13,Lee,Neuroscience,Lee2@college.edu
+978,Abdul Noor al-Saladin,sophomore,AbdulNoor978@college.edu,English,14,Chemistry,16,Griego,Data Science,Griego20@college.edu
+979,Jawaad al-Shaheen,sophomore,Jawaad979@college.edu,Studio Art,13,Philosophy,14,Martinez,Neuroscience,Martinez22@college.edu
+980,Justin Hammond,freshman,Justin980@college.edu,Computer Science,13,Studio Art,13,Mccann,Environmental Science,Mccann23@college.edu
+981,Brianne Florence,freshman,Brianne981@college.edu,Mandarin,16,Sociology,16,Donaldson,Philosophy,Donaldson7@college.edu
+982,Emily Londono,senior,Emily982@college.edu,Psychology,14,History,14,Hayes,Environmental Science,Hayes44@college.edu
+983,Marissa Lee,sophomore,Marissa983@college.edu,Geology,14,Spanish,14,el-Mansour,Geology,el-Mansour38@college.edu
+984,Kiache Reed,junior,Kiache984@college.edu,Biology,16,Mathematics,16,Fischer,Art History,Fischer28@college.edu
+985,Manuel Garcia,freshman,Manuel985@college.edu,Journalism,13,Journalism,13,Martinez,Neuroscience,Martinez22@college.edu
+986,Yavuz Fish,senior,Yavuz986@college.edu,Astronomy,15,Data Science,16,Cantor,Psychology,Cantor18@college.edu
+987,Charli Lujan,sophomore,Charli987@college.edu,Data Science,16,NULL,NULL,Baca,Environmental Science,Baca50@college.edu
+988,Dominique Baker,sophomore,Dominique988@college.edu,Biology,16,Creative Writing,15,el-Ashraf,Economics,el-Ashraf14@college.edu
+989,Ashlie Chavez-Palma,senior,Ashlie989@college.edu,Chemistry,16,NULL,NULL,Roberts,Philosophy,Roberts24@college.edu
+990,Elizabeth Franklin,senior,Elizabeth990@college.edu,Astronomy,15,NULL,NULL,Rapp,Biology,Rapp4@college.edu
+991,Danielle Allen,freshman,Danielle991@college.edu,Environmental Science,14,Chemistry,16,Moline,Psychology,Moline39@college.edu
+992,Dillon Hill,junior,Dillon992@college.edu,Art History,15,NULL,NULL,Quarles,Data Science,Quarles46@college.edu
+993,Khaalid el-Soltani,sophomore,Khaalid993@college.edu,Computer Science,13,NULL,NULL,Contreras,Creative Writing,Contreras13@college.edu
+994,Daniel Lee,senior,Daniel994@college.edu,English,14,Philosophy,14,Hayes,Environmental Science,Hayes44@college.edu
+995,Christiana Houston,sophomore,Christiana995@college.edu,Spanish,14,NULL,NULL,al-Sesay,Geology,al-Sesay42@college.edu
+996,Iffat al-Tahir,sophomore,Iffat996@college.edu,Environmental Science,14,Psychology,14,Moline,Psychology,Moline39@college.edu
+997,Damian Mora-Franco,senior,Damian997@college.edu,Journalism,13,Chemistry,16,Griego,Data Science,Griego20@college.edu
+998,Habeeba al-Gaber,senior,Habeeba998@college.edu,Statistics,13,NULL,NULL,Bedu Annan,Psychology,BeduAnnan26@college.edu
+999,Luqmaan el-Shariff,freshman,Luqmaan999@college.edu,Journalism,13,Neuroscience,16,Melendez,Spanish,Melendez16@college.edu
+1000,Trent Logan,senior,Trent1000@college.edu,Psychology,14,Spanish,14,Cantor,Psychology,Cantor18@college.edu

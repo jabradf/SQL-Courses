@@ -1,0 +1,26 @@
+
+4,Chemistry,16
+22,Sociology,16
+7,Data Science,16
+17,Neuroscience,16
+15,Mandarin,16
+20,Political Science,13
+23,Spanish,14
+16,Mathematics,16
+11,French,14
+24,Statistics,13
+21,Psychology,14
+3,Biology,16
+25,Studio Art,13
+19,Physics,16
+18,Philosophy,14
+13,History,14
+2,Astronomy,15
+6,Creative Writing,15
+1,Art History,15
+8,Economics,16
+5,Computer Science,13
+9,English,14
+12,Geology,14
+14,Journalism,13
+10,Environmental Science,14

@@ -1,0 +1,11 @@
+speaker_id,email,name,organization,title,years_in_role
+0,B.Charles@brown_inc.net,Bethany Charles,brown_inc,Technical Lead,6
+1,S.Bolton@miller_ltd.com,Scott Bolton,miller_ltd,Data Analyst,8
+2,S.Stout@parrish_app.org,Shannon Stout,parrish_inc,Founder,14
+3,T.Washington@swatch.io,Theresa Washington,,Founder,5
+4,V.M.Jenkins@mendoza.org,Veronica Jenkins,,Head of Product,4
+5,Lance.Moss@roberts_ltd.io,Lance Moss,roberts_ltd,Developer,4
+6,Jeff.Melendez@fischer_solutions.io,Jeffrey Melendez,,Risk Analyst,6
+7,Duran@thomas_ltd.org,Duran Thomas,thomas_ltd,CTO,14
+8,D.Cooper@masterpiece.io,David Cooper,,Technical Lead,6
+9,R.Welch@coolnews.nl,Rebecca Welch,CoolNews_ltd,Senior Data Engineer,8
