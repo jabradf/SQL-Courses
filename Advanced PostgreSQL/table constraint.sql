@@ -13,3 +13,8 @@ VALUES (1, 'awilson@ABCcorp.com', 'ABC Corp.', 'CTO', 6);
 -- correct test
 INSERT INTO speakers (id, email, name, organization, title, years_in_role)
 VALUES (1, 'awilson@ABCcorp.com', 'A. Wilson', 'ABC Corp.', 'CTO', 6);
+
+
+-- adding constraint to table
+ALTER TABLE Persons
+ADD UNIQUE (ID); 
