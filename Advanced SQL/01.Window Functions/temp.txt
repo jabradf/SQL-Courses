@@ -1,0 +1,64 @@
+1|Drake|1|288.2
+2|Drake|2|160.9
+3|Drake|3|140.0
+4|Drake|4|131.8
+5|Drake|6|126.2
+6|Drake|5|123.7
+7|Drake|7|122.6
+8|Drake|8|117.6
+9|The Weeknd|1|76.3
+10|The Weeknd|2|72.6
+11|The Weeknd|4|71.4
+12|The Weeknd|3|69.9
+13|Bad Bunny|2|69.6
+14|The Weeknd|6|67.3
+15|The Weeknd|5|66.1
+16|Lady Gaga|5|64.0
+17|The Weeknd|7|63.6
+18|The Weeknd|8|60.6
+19|Bad Bunny|3|59.0
+20|Luke Combs|1|55.8
+21|Luke Combs|4|55.0
+22|Luke Combs|3|54.5
+23|Taylor Swift|3|54.1
+24|Luke Combs|5|52.8
+25|Luke Combs|6|52.4
+26|Luke Combs|2|52.1
+27|Taylor Swift|4|51.0
+28|Luke Combs|7|50.5
+29|Luke Combs|8|50.2
+30|Bad Bunny|4|49.7
+31|Taylor Swift|6|48.9
+32|Taylor Swift|8|48.3
+33|Taylor Swift|2|48.0
+34|Taylor Swift|5|47.9
+35|Taylor Swift|7|47.8
+36|Taylor Swift|1|47.7
+37|Bad Bunny|6|42.8
+38|Bad Bunny|5|42.3
+39|Doja Cat|1|41.7
+39|Bad Bunny|7|41.7
+41|Doja Cat|2|39.5
+42|Bad Bunny|8|39.3
+43|Doja Cat|3|38.5
+44|Lady Gaga|6|36.0
+45|Doja Cat|4|34.5
+46|Beyoncé|8|34.3
+47|Bad Bunny|1|33.7
+48|Lady Gaga|7|30.5
+49|Doja Cat|5|28.9
+50|Doja Cat|6|28.2
+51|Beyoncé|6|27.9
+52|Beyoncé|7|27.3
+53|Lady Gaga|8|27.0
+54|Beyoncé|3|26.6
+55|Doja Cat|7|26.5
+55|Beyoncé|4|26.5
+57|Beyoncé|1|26.3
+57|Beyoncé|5|26.3
+59|Beyoncé|2|25.9
+60|Doja Cat|8|24.8
+61|Lady Gaga|4|21.0
+62|Lady Gaga|3|16.6
+63|Lady Gaga|1|15.4
+64|Lady Gaga|2|15.2
